@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: ec4cca31-34c9-4966-9def-562618ece9c6
+      url: 'https://quartopub.com/sites/livret-des-stages/livret-des-stage'

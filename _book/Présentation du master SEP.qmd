@@ -1,0 +1,28 @@
+---
+title: "Présentation du master SEP"
+editor: visual
+---
+
+Le Master 2 Statistique pour l'Évaluation et la Prévision (SEP) forme des statisticiens compétents et polyvalents, capables d'intervenir dans des domaines très variés. Il vise principalement deux objectifs : un objectif de savoir-faire qui consiste à procurer aux étudiants des compétencestechniques et un objectif de polyvalence qui va leur permettre d'intégrer et de travailler au sein de toute structure dotée d'un service statistique et impliquant des interactions avec d'autres disciplines.
+
+Une des spécificités de la formation est de confronter tout au long de l'année les étudiants à la pluridisciplinarité, ce qui permettra à ces derniers d'être capables de tenir un discours intelligible dans tous les domaines où les statistiques sont présentes
+
+La formation des étudiants du master 2 se fait à travers des modules de cours bien définis dont on citera :
+
+-   L'analyse des systèmes complexes : L'analyse décisionnelle des systèmes complexes est une discipline qui vise à fournir des méthodes et outils de pilotage des systèmes complexes ou de modélisation des environnements chaotiques (théorie du chaos). La démarche insiste sur la transdisciplinarité et inscrit donc l'Analyse décisionnelle des systèmes complexes dans le courant de pensée systémique
+
+-   L'apprentissage automatique : L'apprentissage automatique ou apprentissage statistique est un champ d'étude de l'intelligence artificielle qui se base sur des approches statistiques pour donner aux ordinateurs la capacité d'« apprendre » à partir de données, c'est-à-dire d'améliorer leurs performances à résoudre des tâches sans être explicitement programmés pour chacune. Plus largement, cela concerne la conception, l'analyse, le développement et l'implémentation de telles méthodes
+
+-   Les outils Big Data : Les bases de données relationnelles classiques ne permettent pas de gérer les volumes de données du big data. De nouveaux modèles de représentation permettent de garantir les performances sur les volumétries en jeu. Ces technologies, dites de Business Analytics & Optimization (BAO) permettent de gérer des bases massivement parallèles. Des patrons d'architecture (« Big Data Architecture Framework », BDAF) sont proposés par les acteurs de ce marché comme MapReduce créé par Google et utilisé dans le framework Hadoop. Avec ce système, les requêtes sont séparées et distribuées à des nœuds parallélisés, puis exécutées en parallèles (map). Les résultats sont ensuite rassemblés et récupérés (reduce). La famille de méthodes enseignées dans ce module comprend également le langage SQL (sigle de Structured Query Language, en français langage de requête structurée) qui est un langage informatique normalisé servant à exploiter des bases de données relationnelles.
+
+-   L'Analyse des données et data mining : famille de méthodes statistiques dont les principales caractéristiques sont d'être multidimensionnelles et descriptives. Dans l'acception française, la terminologie « analyse des données » désigne donc un sous-ensemble de ce qui est appelé plus généralement la statistique multivariée. Certaines méthodes, pour la plupart géométriques, aident à faire ressortir les relations pouvant exister entre les différentes données et à en tirer une information statistique qui permet de décrire de façon plus succincte les principales informations contenues dans ces données.
+
+-   La gestion des risques, séries temporelles et économétrie.
+
+-   Les tests statistiques avancés sous R : Au contraire de la statistique descriptive, on va utiliser des
+
+-   lois de probabilités afin de prendre une décision dans une situation faisant intervenir une part de hasard
+
+-   Conférences, Business Intelligence, SAS et VBA.
+
+A cette liste s'ajoute également des cours d'expression orale et de rédaction en Anglais, des séances d'aide à la prise de parole et les travaux d'Implication dans la vie universitaire (IVU).

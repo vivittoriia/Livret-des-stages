@@ -1,0 +1,35 @@
+---
+title: "Industrie"
+---
+
+## Arcelor Mittal
+
+ArcelorMittal est un groupe sidérurgique mondial. Son siège social est installé à Luxembourg. En 2021, il est le deuxième plus important producteur d'acier au monde, avec 79,26 millions de tonnes produites. Il est classé 156ᵉ dans le classement 2016 Fortune Global 500 des plus grandes sociétés du monde.
+
+[Lieu du stage :]{.underline} 57280 Maizières-lès-Metz
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Modèlisation statistique du LME(Liquid Metal Embrittlement)
+
+[Missions(s) :]{.underline} La mission principale est de tester de nouveaux types d'aciers pour le secteur automobile tout en répondant aux différentes préoccupations du secteur
+
+[Techniques statistiques :]{.underline} Régression linéaire multiple, Le modèle de régression logistique
+
+[Logiciels :]{.underline} Rstudio
+
+## BRGM
+
+Le bureau de recherches géologiques et minières (BRGM) est un établissement public à caractère industriel et commercial (Epic) placé sous la tutelle du Ministère de l'Éducation Nationale, de l'Enseignement Supérieur et de la Recherche (MENESR), du Ministère de la Transition Ecologique et Solidaire (MTES) et du Ministère de l'Économie, de l'Industrie et du Numérique (MEIN). Il est l'établissement public de référence dans les applications des sciences de la Terre, pour gérer les ressources ct ICS risques du sol Ct du sous-sol. Le BRGM emploie plus de 1000 personnes dont plus de 700 chercheurs et ingénieurs (géologues, géotechniciens, hydrogéologues, géochimistes, modélisateurs, géophysiciens, informaticiens, ...), dans ses 29 implantations en France métropolitaine et en Outre-mer. Ses équipes interviennent dans une trentaine de pays.
+
+[Lieu du stage :]{.underline} 3 Avenue Claude Guillemin, 45100 Orléans
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Utilisation des technique du Big Data pour rendre accessible les données de qualité de l'eau au robinet
+
+[Missions(s) :]{.underline} Le stage s'est déroulé suivant les étapes ci-après : /Etape I : Analyse des données de qualité de l'eau \_potable, de leur variabilité. /Etape 2 : Analyse des solutions pour aspirer ces données, et développement de la solution technique permettant de les récupérer. /Etape 3 : Définition des blocs hadoop de transformation, d'enrichissement et d'analyse, pour déploiement de ceux-ci dans la plateforme hubeau. /Etape 4 : Co-construction des paramètres de l'API, en s'appuyant sur les ré-utilisateurs connus sur les données eau potable. /Etape 5 : Test de l'API, une fois mise en œuvre, et analyse des données correspondantes. /Etape 6 : Créations d'outils d'aide à l'emploi de l'API
+
+[Techniques statistiques :]{.underline} HDFS, NoSQL, Webscraping,
+
+[Logiciels :]{.underline} Excel, HIVE, JDBC, Hadoop,Spark

@@ -1,0 +1,43 @@
+---
+title: "Aéronotique, Espace, défense et sécurité"
+---
+
+## **ArianeGroup**
+
+**ArianeGroup**, anciennement *Airbus Safran Launchers* (ASL), est une coentreprise créée en 2015 et détenue à parts égales par Airbus et Safran pour notamment développer les lanceurs Ariane 6. La société est chargée du développement et de l'intégration des lanceurs. Elle a plusieurs filiales dont Arianespace qui est chargée de la commercialisation.
+
+[Lieu de stage :]{.underline} Rue du Général Niox -- BP 30056
+
+***Promotion 2020 :***
+
+[Intitulé du stage :]{.underline} Ingénieur DATA Analyst DATA Scientist
+
+[Missions(s) :]{.underline}
+
+-   Découverte des outils, identification des données et de leur disponibilité
+
+-   Etude du besoin préalablement défini (indicateurs à créer via les extracts et croisement des données.
+
+-   Réalisation d'une maquette répondant au besoin est mis en oeuvre (conception de l'outil)
+
+-   Test et validation de l'outil
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline}
+
+## **Groupe Safran**
+
+Safran est un groupe international de haute technologie, leader dans les domaines de l'aéronautique, de l'espace, de la défense et de la sécurité. Il conçoit, développe, produit et commercialise des moteurs pour des avions civiles, des avions militaires et des satellites. En 2015, l'entreprise employait 70 100 personnes et a réalisé un chiffre d'affaire de 17,4 Milliards d'euros.
+
+[Lieu de stage :]{.underline} Rond point René Ravaud, 77550 Moisy-Cramayel
+
+***Promotion 2017 :***
+
+[Intitulé du stage :]{.underline} Analyse des caractéristiques des aubes atypiques du moteur LEAP
+
+[Missions(s) :]{.underline} Compréhension des besoins métier des ingénieurs process /Analyse des données disponibles : collecter, explorer les données et vérifier leur cohérence /Identification de profils de pièces atypiques /identifier les causes racines potentielles expliquant ces profils atypiques, via des modèles d'apprentissage supervisé.
+
+[Techniques statistiques :]{.underline} K-Means, ACP, Interpolation de Lagrange, Clustering, ACM, AFDM, CAH
+
+[Logiciels :]{.underline} R

@@ -1,0 +1,179 @@
+---
+title: "Commerce et Industrie"
+---
+
+## **ADISSEO**
+
+Adisseo est l'un des leaders mondiaux de la **nutrition animale** avec un chiffre d'affaires d'1.69 milliard d'euros en 2021 et plus de 3 900 clients. En 2006, l'entrée d'Adisseo dans le groupe Bluestar, lui a facilité l'accès au marché chinois, premier marché mondial en termes de croissance.
+
+[Lieu de stage :]{.underline} 10 Place du Général de Gaulle, 92160
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+-   Aide à la collecte de données,
+
+-   Création de base de données,
+
+-   Traitement et analyse des données,
+
+-   Création plateforme de consultations des données des élévages
+
+[Techniques statistiques :]{.underline} analyse de données
+
+[Logiciels :]{.underline} Python, R, SQL
+
+## **Arcelor Mittal**
+
+ArcelorMittal est un groupe sidérurgique mondial. Son siège social est installé à Luxembourg. En 2021, il est le deuxième plus important producteur d'acier au monde, avec 79,26 millions de tonnes produites. Il est classé 156ᵉ dans le classement 2016 Fortune Global 500 des plus grandes sociétés du monde.
+
+**Promotion 2021 :**
+
+[Lieu du stage :]{.underline} 57280 Maizières-lès-Metz
+
+[Intitulé du stage :]{.underline} Supporter l'évolution des outils d'intelligence artificielle sur l'activité commercial d'AMDS
+
+[Missions(s) :]{.underline}
+
+-   Analyser les données de nos datawarehouses actuel pour les transformer en axe d'info exploitable
+
+-   Elaborer les critères de segmentation
+
+-   Travailler en collaboration avec notre partenaire actuel afin :
+
+-   Multiplier & formaliser les back test dans le but de valider les évaluations du Model
+
+-   Monitorer et reporter les déviations du model, les analyser, afin de comprendre l'origine de cette déviation
+
+-   Participer au workshop d'évolution des modèles en apportant une analyse technique
+
+-   Finaliser la refonte de la proposition « minimum Price »
+
+-   élaborer une prédiction du réel prix mini marché pour chaque offre de prix Europe Techniques statistiques : Analyse de données / Dashboard
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} Rstudio
+
+**Promotion 2019 :**
+
+[Lieu du stage :]{.underline} 57280 Maizières-lès-Metz
+
+[Intitulé du stage :]{.underline} Modèlisation statistique du LME(Liquid Metal Embrittlement)
+
+[Missions(s) :]{.underline} La mission principale est de tester de nouveaux types d'aciers pour le secteur automobile tout en répondant aux différentes préoccupations du secteur
+
+[Techniques statistiques :]{.underline} Régression linéaire multiple, Le modèle de régression logistique
+
+[Logiciels :]{.underline} Rstudio
+
+## **BLT Cosmetics LABOTÉ**
+
+Blt Cosmetics Laboté est une entreprise évoluant dans le commerce de détail de parfumerie et de produits de beauté. Son effectif est compris entre 6 et 9 salariés. Sur l'année 2018 son chiffre d'affaires réalisé est de 204 700 euros. Elle appartient à la catégorie de petite et moyenne entreprise.
+
+[Lieu du stage :]{.underline} 11 rue madame 75006 Paris
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline} Analyse des données clients
+
+[Mission(s) :]{.underline} Proposer des methodes d'analyser les données clients, analyser et interpreter les données, proposer une algorithmes de prescriptions sur mesure
+
+[Techniques statistiques :]{.underline} Analyse de données, Gestion de projet
+
+[Logiciels :]{.underline} Excel
+
+## **Chambre de commerce et d'industrie des Ardennes**
+
+La chambre de commerce et d'industrie d'ardennes est un organisme chargé de représenter les intérêts des 7139 entreprises commerciales, industrielles et de service du département des Ardennes et de leur apporter certains services. C'est un établissement public qui gère en outre des équipements au profit de ces entreprises.
+
+[Lieu de stage :]{.underline} 18A AVENUE GEORGES CORNEAU 08106 CHARLEVILLE-MEZIERES
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Etat, évolution et comparaison des établissements commerciaux ardennais de plus de 300m²
+
+[Missions(s) :]{.underline}
+
+[Techniques statistiques :]{.underline} Analyse des données, Clustering
+
+[Logiciels :]{.underline} Excel, R
+
+## **PUM Plastiques**
+
+PUM Plastiques est le spécialiste français du négoce de produits et solutions plastiques à destination des Entreprises du Bâtiment et des Travaux Publics.
+
+[Lieu de stage :]{.underline} 4 rue René Francart,51100 Reims
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Pricing, travaux d'analyses et d'études pour permettre une meilleure exploitation
+
+[Missions(s) :]{.underline} Mettre en place une refonte tarifaire, mise en place d'une base de données concurrence en relevant le prix tarif des articles chez les concurrents afin de suivre les évolutions, la détermination d'une remise unique par regroupement d'indice de cotation pour chaque segment(type de client, taille, région, type d'activité) pour ne pas provoquer de pertes.
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} Rstudio & Power BI , Excel
+
+**Promotion 2018 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Travaux de réflexions et de conception de l'évolution du tarif vente (entreprise internationale) : pricing
+
+[Missions(s) :]{.underline}
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} R Microstrategy, Excel
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline} Elaboration de reporting de suivi d'activités
+
+[Missions(s) :]{.underline}
+
+-   Accompagnement du service commercial dans le pilotage des activités à travers le suivi des performances :
+
+-   Etude et analyse du fichier clients grands comptes de la société;
+
+-   Pilotage de l'activité des données de clients avec la mise à jour de la base de données, la gestion et la structuration;
+
+-   Création et mise en place d'un processus d'automatisation des reportings de suivi d'activité;
+
+-   Mise en place d'un tableau de bord pour le suivi des performances commerciales (définition de KPIs et visualisation des données);
+
+-   Profilage des clients digitaux en fonction des différents canaux de vente.
+
+[Techniques statistiques :]{.underline} SGBDR
+
+[Logiciels :]{.underline} SQL, R, Excel
+
+## **Zenpark**
+
+Zenpark est une société anonyme évoluant dans le secteur d'activité du commerce de gros (interentreprises) de fournitures et équipements divers pour le commerce et les services. Son siège se trouve à PARIS, elle appartient à la catégorie de petite et moyenne entreprise.
+
+[Lieu de stage :]{.underline} 142 rue Montmartre Paris
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+-   Création d'applications sur Qlik : consulter les équipes métiers concernées, construire le modèle de données, importer les données, configurer les feuilles de visualisation des données
+
+-   Mise à jour des applications Qlik : suivre les changements en base de données SQL et les répercuter dans les applications Qlik concernées, prendre en compte les changements de process et les prendre en compte dans les applications Qlik concernées
+
+-   Smart-Cities : effectuer l'analyse de l'occupation réelle des parkings, créer un modèle de foisonnement applicable à différents types de parking
+
+-   Etude de rentabilité : créer un outil d'aide à la décision sur la performance des parkings
+
+-   Projection de revenus : créer un outil d'aide à la décision permettant de calculer des projections de revenus selon différents critères
+
+[Techniques statistiques :]{.underline} Data visualisation, modelisation mining
+
+[Logiciels :]{.underline} Qlik, SQL

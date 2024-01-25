@@ -1,0 +1,19 @@
+---
+title: "Voyage & Tourisme"
+---
+
+## **Tui Groupe**
+
+TUI (Travel Union International) est une société anonyme en activité depuis 1984. Elle évolue dans le secteur des activités des voyagistes. Son effectif est compris entre 1000 et 1999 salariés faisant une entreprise de taille intermédiaire.
+
+[Lieu du stage :]{.underline} 32 rue Jacques Ibert\|92309 Levallois-Perret Cedex\|France
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Segmentation clients et analyse de sentiments
+
+[Missions(s) :]{.underline} Réaliser une étude visant à identifier la catégorie d'un client et de le classer suivant son comportement d'achat par la segmentation selon la ressemblance et l'analyse de sentiment après consommation du produit
+
+[Techniques statistiques :]{.underline} Segmentation (méthode K-means) et analyses de sentiments (text mining: c'est une méthode qui permet de tirer de l'information utile à partir des commentaires laissés par les clients après consommation du produit. Cela permet d'apprendre sur les points forts et les points d'améliorations de l'entreprise et donc d'obtenir une vue d'ensemble)
+
+[Logiciels :]{.underline} SQL, Python et Power BI

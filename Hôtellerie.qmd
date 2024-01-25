@@ -1,0 +1,19 @@
+---
+title: "Hôtellerie"
+---
+
+## **Evian Resort**
+
+Evian Resort est une société active depuis 63 ans dont le siège se trouve à EVIAN-LES-BAINS. Son activité principale est l'hôtellerie et hébergement similaire. Elle appartient à la catégorie des grandes entreprises. Sur l'année 2019 elle réalise un chiffre d'affaires de 64 962 800 euros.
+
+[Lieu du stage :]{.underline} Evian
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Mise en place de l'outil CRM ( Customer Relation Management) et Analyse de délai de réservation de la clientèle hôtel de l'evian resort
+
+[Missions(s) :]{.underline} Mise en place d'un DataLake à partir de données extraites depuis plusieurs SGBD (Un Système de Gestion de Base de Données) et analyse du comportement de réservation de la clientèle pour la mise en place d'un modèle de prédiction des réservations
+
+[Techniques statistiques :]{.underline} Extraction de données, prévision, marketing
+
+[Logiciels :]{.underline} R, Java

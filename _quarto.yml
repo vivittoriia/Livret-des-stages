@@ -1,0 +1,38 @@
+project:
+  type: book
+
+book:
+  chapters:
+    - index.qmd
+    - Présentation du master SEP.qmd
+    - Administration publique.qmd
+    - Aéronotique, Espace, défense et sécurité.qmd
+    - Banque et Assurance.qmd
+    - Commerce et Industrie.qmd
+    - Conseil.qmd
+    - Economie et développement.qmd
+    - Edition de logiciels.qmd
+    - Energie.qmd
+    - Grande distribution.qmd
+    - Hôtellerie.qmd
+    - Informatique et Télécommunication.qmd
+    - Luxe.qmd
+    - Média.qmd
+    - Recherche.qmd
+    - Santé.qmd
+    - Voyage et tourisme.qmd
+    - Autres.qmd
+
+
+    
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

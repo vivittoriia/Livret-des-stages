@@ -1,0 +1,59 @@
+---
+title: "Luxe"
+---
+
+## **Christian Dior Couture**
+
+CHRISTIAN DIOR COUTURE est société anonyme à conseil d'administration, elle est en activité depuis 1946. Elle est située à PARIS et spécialisée dans le secteur d'activité du commerce de détail d'habillement en magasin spécialisé. Son effectif est compris entre 2000 et 4999 salariés. Sur l'année 2019 elle a réalisé un chiffre d'affaires de 1 869 773 000 €. Elle est considérée comme une grande entreprise (GE).
+
+[Lieu du stage :]{.underline} 30 avenue Montaigne -- 75008 Paris
+
+Promotion 2020
+
+[Intitulé du stage :]{.underline} Assistante Data Analyst
+
+[Missions(s) :]{.underline}
+
+-   Réalisation d'études et d'analyses clients (analyse du comportement d'achat, profils clients, parcours clients, segmentations)
+
+-   Gestion opérationnelle des campagnes marketing : recommandation de ciblage, comptages et créations
+
+-   Mise en place de tableaux de bord afin de suivre la performance des campagnes (newsletters, mailing,...)
+
+[Techniques statistiques :]{.underline}
+
+-   compétences analytiques (lecture de résultats, analyse et communication pertinente des enseignements)
+
+-   compétences statistiques à l'aide notamment de SAS
+
+[Logiciels :]{.underline} SAS, Excel, pack office, Neolane
+
+## **Moêt Hennessy**
+
+mondial du secteur de luxe de ce marché. Il forme avec le groupe de mode et maroquerie de luxe Luis Vuitton, le groupe LVMH depuis 1987.
+
+[Lieu du stage :]{.underline} Paris
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} Mise en place de requêtes d'extractions de données de sources diverses et construction des rapports et des Dashboards à l'aide des outils de Business. Conception d'applications pour les services de la supply chain et formation des utilisateurs à la maîtrise des applications.
+
+[Techniques statistiques :]{.underline} supply chain, business intelligence
+
+[Logiciels :]{.underline} Qlik sense. C'est un nouvel outil de Business Intelligence. C'est une application de visualisation de données qui permet de créer facilement des visualisations plus ou moins complexes, flexibles et interactives...COGNOS
+
+## **CAROLL INTERNATIONAL**
+
+Caroll, marque de l'élégance et de la féminité, elle met en avant son savoir-faire français, en proposant de très belles pièces. Née dans les années 60, elle habille les femmes avec la même exigence de qualité. Une réussite qui ne se dément pas, elle a réinventé une mode chic, accessible, qui parle à toutes les femmes, aujourd'hui elle rayonne avec un prêt-à-porter complet.
+
+[Intitulé du stage :]{.underline} Intégrer le département Marketing Clients pour développer la stratégie Data
+
+[Mission(s) :]{.underline} Proposer et mettre en place les modèles statistiques (régression ...) ou de data science (apprentissage supervisé et non supervisé ...) pour résoudre les problématiques métier. / Segmentation et analyse comportementale des clients. / Conception et production de rapports récurrents sur l'activité de l'entreprise (TdB Hebdo, mensuels, KPI clients ...). / Contribuer à l'élaboration des ciblages segments clients.
+
+[Techniques statistiques :]{.underline} Modélisation / Analyse de données / Segmentation
+
+[Logiciels :]{.underline} RStudio / SQL / Pack Office
+
+[Lieu de stage :]{.underline} 75019 Paris

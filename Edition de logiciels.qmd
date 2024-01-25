@@ -1,0 +1,193 @@
+---
+title: "Edition de logiciels"
+---
+
+## **SAS INSTITUTE**
+
+SAS Institute est une multinationale américaine spécialisée dans les logiciels d'analyse, dont le siège est situé à Cary, en Caroline du Nord. SAS développe et commercialise un ensemble de logiciels d'analyse (également connus sous le nom de SAS) permettant d'accéder à des données, de les gérer, de les analyser et d'établir des rapports afin de faciliter la prise de décision. L'entreprise est la plus grande entreprise privée de logiciels au monde et ses logiciels sont utilisés par la plupart des entreprises du classement Fortune 500.
+
+[Lieu du stage :]{.underline} Domaine de Grégy- Grégy sur Yerres- 77257 BRIE COMTE ROBERT CEDEX
+
+**Promotion 2021 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Consulting Data Science -- Fraude/Risk
+
+[Missions(s) :]{.underline} Qualification du risque client / Création de scénarios de détection/ Création de workflows permettant de matérialiser les processus utilisateurs / Création et personnalisation des Interfaces Utilisateurs (Ecrans et rapport de restitution) / Manipulation des données (Contrôle DQ, Profilage ...)
+
+[Techniques statistiques :]{.underline} Mapping / Classification / Machine learning
+
+[Logiciels :]{.underline} SAS
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline} Associate Business Operations
+
+[Missions(s) :]{.underline} Rédiger des rapports, identifier, analyser et coordonner les informations requises par les différentes unités business pour soutenir leurs plans d'amélioration continue et pour aider à déterminer les solutions aux problèmes business, développer, mettre à jour et maintenir régulièrement un référentiel central des informations de l'entreprise chez SAS, en l'utilisant comme une plate-forme, définissant les meilleures normes et partage des connaissances et fournissant des ressources pour faciliter et améliorer la valeur et la qualité de la livraison des projets.
+
+[Techniques statistiques :]{.underline} Prédiction / Tableaux de bords
+
+[Logiciels :]{.underline} SAS/ Excel
+
+**Promotion 2020 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Traitement d'image médicale et deep learning
+
+[Missions(s) :]{.underline}
+
+-   Traitement d'image médicale et deep learning.
+
+-   Maîtrise des algorithmes de Machine Learning et Deep Learning,
+
+-   Maîtrise de méthodes statistiques et de la modélisation prédictives
+
+[Techniques statistiques :]{.underline} Algorithmes de Machine Learning et Deep Learning, méthodes statistiques et modélisation prédictives
+
+[Logiciels :]{.underline} R , Python , SAS
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} La mission adressera une ou plusieurs thématiques liées aux prévisions de sorties des entrepôts. Plus précisément, le rôle du stagiaire sera de prendre en charge un sujet précis (qui sera déterminé en fonction de l'avancement du projet au moment du stage), afin de le développer puis de l'intégrer dans le processus d'amélioration des prévisions
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} SAS VIYA -- SAS Visual Analytics
+
+*Stage 3 :*
+
+[Intitulé du stage :]{.underline} Consultant PreSales DATA MANAGEMENT
+
+[Missions(s) :]{.underline} Comprendre les problématiques business, proposer de nouvelles approches
+
+[Techniques statistiques :]{.underline} analyse predictive
+
+[Logiciels :]{.underline} SAS, Python, Javascript, Powerpoint
+
+**Promotion 2019 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Cycle de vie du modèle: Industrialisation du pilotage des indicateurs de validation et de performance du modèle
+
+[Missions(s) :]{.underline} La mission est de participer au projet de vente de la solution MRM (Model Risk Management).Cette solution est conçue afin d'aider les établissements financiers à gérer leur risque de modèle. Elle prend en charge le cycle de vie complet du modèle et crée un ensemble de rapports afin d'assurer le suivi et le contrôle de toutes les catégories de risques liés aux modèles. Cela permet de répondre aux demandes du régulateur en fournissant des rapports règlementaires.
+
+[Techniques statistiques :]{.underline} Modélisation statistique
+
+[Logiciels :]{.underline} SAS
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline} Intégration du machine learning au sein de la solution SAS de lutte contre le blanchiment d'argent
+
+[Missions(s) :]{.underline} Ce stage combine connaissances d'entreprise et connaissances techniques. Les activités réalisées dans le cadre de ce stage vont de la préparation des rendez-vous et des séminaires et( formation dédiés aux clients SAS à la création des démonstrations logicielles. Elles font appel aux techniques de machine learning pour mettre en place et tenir à jour un algorithme de détection des cas de blanchiment d'argent au sein d'un système bancaire
+
+[Techniques statistiques :]{.underline} Blanchiment d'argent, segmentation, cluster, K-means, Classification hiérarchique ascendante, machine learning
+
+[Logiciels :]{.underline} SAS (SAS Enterprise Miner, SAS Enterprise Guide). Le premier simplifie le processus de data mining pour développer rapidement des modèles, comprendre les relations clés et identifier les schémas déterminants... Le deuxième est orienté vers la construction de requêtes (extraction de données, jointures) et la statistique descriptive mais possède aussi quelques interfaces pour la construction de modèles
+
+**Promotion 2018 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Intégration du machine learning au sein des solutions de lutte contre la fraude et le blanchiment d'argent.
+
+[Missions(s) :]{.underline}
+
+-   Comprendre la problématique business
+
+-   Rechercher et analyser les approches existantes
+
+-   Proposer de nouveaux modèles
+
+-   Développer & intégrer ces modèles
+
+-   Valider la valeur ajoutée de la nouvelle approche
+
+-   Présenter les résultats
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} R
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+(techniques de modélisation, open sources, big data...) et formaliser des recommandations pour un cycle de vie des modèles optimisé ;démonstrations logicielles, présentations clients, réponses à appel d'offres
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} R
+
+*Stage 3 :*
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+-   Mettre en pratique les nouvelles techniques de traitement de l'image et les illustrer à partir d'un démonstrateur sur cette problématique métier.
+
+-   Participer à des présentations internes ainsi qu'à des opportunités clients sur le même sujet.
+
+[Techniques statistiques :]{.underline} Machine Learning. Manipulation et traitement des données massives (Big Data)
+
+[Logiciels :]{.underline} SAS® Visual Data Mining & Machine Learning. SAS (SAS® Viya) et Jupyter.
+
+*Stage 4 :*
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} préparation de propositions pour valider l'adaptabilité des logiciels SAS pour les scénarios IoT et autres « edge computations » (traitement de flux de données en temps réel et Big Data, par exemple) en utilisant les techniques et technologies les plus récentes.
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} R
+
+*Stage 5 :*
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+-   Analytics Pre-Processing et démonstration de la qualité des outils SAS sur des données réelles basée sur la fraude aux soins médicaux à Bruxelles, Belgique.
+
+-   Réalisation d'un programme accessible permettant la création des variables RFM sous SAS Viya
+
+-   Participation à des présentations et des démonstrations des solutions SAS
+
+-   Travail et collaboration avec une équipe internationale
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} R
+
+*Stage 6 :*
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} Travailler au sein de l'équipe projet sur les différentes phases de mise en oeuvre d'une solution SAS de lutte contre la fraude, le blanchiment d'argent et l'abus de marché
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} R
+
+*Stage 7 :*
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+-   Participerez à l'ensemble des activités liées à l'avant-vente d'un projet (présentations, réponse à des appels d'offres, création de démonstrateurs, etc.).
+
+-   Création de contenus de Dataviz' dans un contexte où l'Open Data vient compléter les données disponibles chez nos clients innovants
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} SAS Visual Analytics, SAS Enterprise Guide, SAS Viya et Base, Forecast Studio, Visual Investigator

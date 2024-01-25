@@ -1,0 +1,59 @@
+---
+title: "Data Science"
+---
+
+## Line Up Data Science
+
+Lieu du stage : 7 rue de Caumartin 75009 PARIS
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline} Data Science orienté Marketing
+
+[Missions(s) :]{.underline}
+
+-   Cadrage du besoin avec le client (cas d'usage associé, période observée, pilotes envisagés, apprentissages attendus : théorie, programmation, outils, méthodologie Data Science, etc.)
+
+-   Etat de l'art et mise en évidence de méthodes adaptées aux problématiques
+
+-   Analyse des outils, langages les plus pertinents pour mettre en œuvre les modélisations à construire
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} AWS, Dataiku,GCP, Python, SQL
+
+## Pari Mutuel Urbain (PMU)
+
+[Lieu du stage :]{.underline} 2 Rue du Professeur Florian Delbarre 75015, Paris
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Optimisation de la monté en gamme des clients
+
+[Missions(s) :]{.underline}
+
+-   Analyse d'opération marketing et statistiques descriptives;
+
+-   Modélisation dans le but de déterminer les facteurs les plus importants pour un up sell avec la plus forte valeur ajoutée;
+
+-   Test d'opération marketing pour valider l'analyse et la modélisation en vue
+
+[Techniques statistiques :]{.underline} Segmentation, K-mens, Rég logistique
+
+[Logiciels :]{.underline} SAS, Excel, Powerpoint
+
+## Data moove
+
+Data Moove est une start-up créée en 2014 qui propose une gamme complète de produits technologiques innovants pour le BtoBtoC (business to business to consumer) dans le domaine du tourisme : la plateforme Big Data sémantique City Moove collecte de l'offre touristique à sa diffusion (City Moove) et son exploitation avancée sur tout média digital tel que application mobile, site web, réseaux sociaux ou via l'assistant touristique digital Minotour.
+
+[Lieu du stage :]{.underline} 245 route des Lucioles 06560 Sophia Antipolis, France
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Intelligence artificielle et web sémantique pour l'assistance digitale
+
+[Missions(s) :]{.underline} Ledit stage fait appel à diverses techniques d'intelligence artificielle notamment dans le domaine du web sémantique. Dans le cadre de ce stage, le stagiaire est amené à contribuer à la mise en place d'un système d'assistance automatisé au service de la clientèle (les touristiques) à travers le développement de collecteurs et la construction de nouvelles bases de connaissances. Une base de connaissance, regroupe un ensemble connaissances spécifiques à un domaine spécialisé donné , sous une forme exploitable par un ordinateur. Ces données (connaissances) proviennent de sources variées et sont récupérées grâce à des collecteurs.
+
+[Techniques statistiques :]{.underline} web sémantique, base de connaissance, machine learning, deep learning. Le web sémantique encore appelé le web de données permet aux machines de comprendre la sémantique, la signification de l'information sur le web. Il fournit un modèle qui permet aux données d'être partagées et réutilisées entre plusieurs applications, entreprises et groupes d'utilisateurs.
+
+[Logiciels :]{.underline} Python, RASA, JAVA. RASA est une plateforme qui permet aux développeurs de créer, d'améliorer et de déployer de meilleurs assistants (Intelligence artificielle) alimentés par une source ouverte.

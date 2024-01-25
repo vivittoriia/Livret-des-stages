@@ -1,0 +1,113 @@
+---
+title: "Média"
+---
+
+## **FEEL'IN**
+
+Fondée en mars 2020 à Bruxelles par Nicolas Débué et Loïc Adam, Feelin est une startup à la frontière du marketing et de la data science. Son activité est centrée sur l'analyse des réactions et émotions de l'audience afin d'améliorer la performance des vidéos publicitaires. Ces deux psychologues de formation ont eu l'idée d'utiliser les concepts d'intelligence émotionnelles afin d'évaluer l'impact du marketing numérique. En 2020, Feelin remporte le prix IAB MIXX Awards 2020 dans la catégorie des outils marketing numérique. Les IAB Mixx Awards sont une initiative internationale organisée en Belgique par l'Association belge du marketing et Best of Publishing, éditeur de Inside Magazine et Digimedia.be
+
+[Lieu de stage :]{.underline}Belgique
+
+**Promotion 2021 :**
+
+[Intitulé du stage:]{.underline}Data science / Exploration des données comportementales, physiologiques et déclaratives des utilisateurs de l'application FEELIN.
+
+[Mission(s):]{.underline} Assister le Lead Data Scientist dans le post processing des données physiologiques Assister le Lead Data Scientist dans l'amélioration des modèles interne de machine learning Explorer des nouvelles méthodes pour la fusion multimodale de données (méthode mathématique, apprentissage supervisé.) Analyser les données de gyroscope et d'accéléromètre pour implémenter des fonctions de correction des données sur base de ces indicateurs Créer des outils de visualisation des données brutes des utilisateurs accessibles online pour usage interne de la société Créer des modèles de rapport de données via libraires ad hoc (Markdown, JupiterNotebook)
+
+[Techniques statiques:]{.underline}Analyse de données / Prédiction / Benchmarking
+
+[Logiciels :]{.underline} SPSS, AWS, Python, R, MongoDB
+
+[Lieu de stage :]{.underline}Belgique
+
+## **Havas Média France**
+
+Havas Media Group est l'un des plus grands groupes mondiaux de communication. Le Groupe est présent dans tous les secteurs et dans tous les métiers de la communication. Au sein du département Etudes CSA Data Consulting, véritable Dataroom de l'agence dont l'activité est centrée sur l'analyse d'efficacité et les stratégies media marketing, au service de l'opérationnel.
+
+[Lieu du stage :]{.underline} 10 Rue Godefroy 92800 Puteaux
+
+**Promotion 2017 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} Mesurer les impacts des campagnes media et marketing de marque sur les ventes en magasin + site internet./Une analyse allant jusqu'à la mesure de l'ensemble des actions marketing avec un focus particulier des effets de chacun des leviers media. /Prévoir l'évaluation du marché publicitaire Français sur l'ensemble des médiats (TV, Radio, Affichage, Digital et Presse).
+
+[Techniques statistiques :]{.underline} Clustering
+
+[Logiciels :]{.underline} R, SAS
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} Mise en place d'un modèle d'attribution sur des données individuelles digitales. Choix des outils en amont du projet (SAS, R, Python. Une partie de veille sur les différentes approches existantes sera nécessaire pour ce projet. /Reporting de deux tableaux de bords /Travail sur les projets de modélisation clients (secteur à définir en fonction des projets en cours parmi les secteurs Automobile, Grande distribution, Telecom...) en utilisant les process SAS existants. La prise en main du process statistique est un rôle clé dans les analyses et les insights media restitués au client.
+
+[Techniques statistiques :]{.underline} Régression linéaire, Séries chronoloiques
+
+[Logiciels :]{.underline} SAS, R, Python
+
+## **Médiamétrie**
+
+Médiamétrie, leader des audiences médiatiques, mesure ces audiences (télévisuels, internet et radio) et analyse les évolutions et comportements du public. Les études de Médiamétrie vont par exemple pouvoir permettre aux entreprises de diffuser leurs publicités au moment le plus adéquat pour toucher le public visé.
+
+[Lieu de stage :]{.underline} 92300 Levallois-Perret
+
+[Intitulé du stage :]{.underline} Détection et traitement de valeurs atypiques
+
+Mission(s): - Recherche bibliographique sur les méthodes de détection et de traitement des valeurs aberrantes ou extrêmes / Etude des méthodes retenues appliquées sur les panels Ordinateur, Mobile et Tablette / Implémentation sous SAS des méthodes possibles et une analyse des résultats d'audience obtenus / Restitution des différentes propositions d'analyses à la Direction
+
+[Techniques statistiques :]{.underline} Modélisation
+
+[Logiciels :]{.underline} SAS
+
+## **Phenix**
+
+Phenix est une street media company. Créée en 2012 en tant que startup technologique, Phenix est devenu l'un des leaders français de la communication extérieure et 1er groupe indépendant du secteur, en tant qu'opérateur propriétaire de réseaux média outdoor et de solutions technologiques en France.
+
+[Lieu du stage :]{.underline} 92624 Gennevillers
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Data Scientist
+
+Mission(s): Structurer et modéliser les données pour les rendre facilement accessibles aux interlocuteurs business
+
+-   Définir les KPI à suivre et construire des tableaux de bord automatisés pour piloter les performances et aider les équipes à prendre les bonnes décisions stratégiques au quotidien 10
+
+-   Explorer la donnée à la recherche d'insights, formuler des recommandations sur la base des analyses
+
+-   Evangéliser les équipes Phenix sur les sujets data
+
+-   Aider les phénicien·ne·s à monter en compétence sur les sujets data et à être de plus en plus autonome dans leur utilisation de la donnée
+
+[Techniques statistiques :]{.underline} Modélisation, Tableaux de bord
+
+[Logiciels :]{.underline} BigQuery, Looker, Cumul.io
+
+## **Prisma média**
+
+Prisma Media est une entreprise spécialisée dans la presse. Elle est aujourd'hui le leader des groupes bimédias, de la presse magazine, de la vidéo en ligne et de l'audience digitale quotidienne en France.
+
+[Lieu du stage :]{.underline} 92624 Gennevillers
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Data Scientist
+
+Mission(s): Prédiction socio démo de l'audience et scoring / Segmentation Sémantique NLP / Analyse descriptive & insight / Dashboarding & data viz Communication & pilotage et coordination de projets
+
+[Techniques statistiques :]{.underline} Scoring / Segmentation / Analyse de données / Tableaux de bord
+
+[Logiciels :]{.underline} Python
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} Pôle data science : Stock sur Hadoop /Spark, requêtage avec Dataiku, R, Python. Réaliser des scores, enrichissement de la BDD via open data, prédiction d'audience (modele de prediction), segments( avec google analytics), analyse pression commerciale (email). Le stagiaire participera également aux missions big data : branchements Hadoop/Spark/R avec l'équipe IT
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} Hadoop, Bigquery, R, Python, Dataikiu

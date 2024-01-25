@@ -1,0 +1,29 @@
+---
+title: "Agriculture"
+---
+
+## **ADISSEO**
+
+Adisseo est l\'un des leaders mondiaux de la **nutrition animale** avec un chiffre d\'affaires d\'1.69 milliard d\'euros en 2021 et plus de 3 900 clients.
+
+En 2006, l'entrée d'Adisseo dans le groupe Bluestar, lui a facilité l\'accès au marché chinois, premier marché mondial en termes de croissance.
+
+[Lieu de stage :]{.underline} 10 Place du Général de Gaulle, 92160
+
+***Promotion 2020 :***
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+-   Aide à la collecte de données,
+
+-   Création de base de données,
+
+-   Traitement et analyse des données,
+
+-   Création plateforme de consultations des données des élévages
+
+[Techniques statistiques :]{.underline} analyse de données
+
+[Logiciels :]{.underline} Python, R, SQL

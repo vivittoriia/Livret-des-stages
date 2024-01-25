@@ -1,0 +1,43 @@
+---
+title: "Grande distribution"
+---
+
+## **AUCHAN RETAIL FRANCE**
+
+Auchan est une enseigne de grande distribution faisant partie de l'Association familiale Mulliez. L'enseigne est fondée en 1961 et emploie 354 851 salariés à travers le monde. Son chiffre d'affaires en 2018 est de 50,3 milliards d'euros. Elle est considérée comme une grande entreprise (GE).
+
+[Lieu du stage :]{.underline} 200 rue de la recherche -- 59650 Villeneuve d'Ascq
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline} Amélioration de la connaissance clients AUCHAN
+
+[Missions(s) :]{.underline}
+
+-   Segmentation des clients en utilisant l'ensemble des datas disponibles (interne / externe)
+
+-   Optimisation du contenu de nos campagnes marketing personnalisées : systèmes de recommandation établis via la modélisation prédictive et le machine learning
+
+-   Définition des cibles les plus pertinentes pour les plans d'animation commerciales (scoring...)
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} Google Cloud Plateform, Teradata, R / Python, Microsoft Excel
+
+## **Siège mondial Carrefour**
+
+[Lieu du stage :]{.underline} Massy Palaiseau Paris
+
+[Intitulé du stage :]{.underline} Chargée des données cobotiques
+
+[Missions(s) :]{.underline}
+
+-   Inclure les données des prestataires dans le reporting data cobotique hebdomadaire sur python.
+
+-   Rédaction des synthèses et comptes-rendus d'événements importants.
+
+-   Création d'une documentation des projets en incluant les brochures et cartes visite associées.
+
+[Techniques statistiques :]{.underline} Visualisation des données
+
+[Logiciels :]{.underline} Python / stramlit

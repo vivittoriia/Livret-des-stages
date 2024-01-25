@@ -1,0 +1,697 @@
+---
+title: "Conseil"
+---
+
+## **ALGOAN**
+
+Créée en 2018, Algoan est une plate-forme SaaS qui propose une chaîne complète d'octroi de crédit. Algoan s'appuie sur les données de l'Open Banking pour prendre de meilleures décisions de crédit et garantir une expérience utilisateur fluide et transparente aux clients finaux. Algoan est une filiale à 100% de Yelloan, la Fintech française dédiée à l'accès au crédit pour les Millennials.
+
+[Lieu de stage :]{.underline} 20 Rue Drouot, 75009 Paris
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline} Machine learning appliqué à la détection des rejets de paiement dans le cadre de l'open banking
+
+[Missions(s) :]{.underline} Detection des rejets de paiements en créant une solution complète, innovante et automatisée
+
+[Techniques statistiques :]{.underline} Machine learning
+
+[Logiciels :]{.underline} Python
+
+## **BGFi Consulting**
+
+BGFI Consulting est une société de technologies et service d'information qui a vu le jour en 2002. Elle est composée d'une cinquantaine de consultants spécialisées dans le domaine du Big Data et de l'Analyse. Elle compte plus que 200 clients pour lesquels, elle a pu élaborer plus de 400 projets. Au fil du temps, elle a une filiale au Canada basé à Vancouver (BGFI NORTH AMERICA) et une autre en Tunisie (BGFI Engineering).
+
+[Lieu du stage :]{.underline} 251 BD PEREIRE 75017 PARIS
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+-   Extraction des qualifications correspondantes à des commentaires. (Création de fonctions de nettoyage de texte et de découpage des textes en mots et l'utilisation du web scraping)
+
+-   Détection des orientations des sentiments et de catégories d'opinions. (Création de dictionnaire des mots positifs et négatifs et utilisation de l'outil TreeTager pour la lemmatisation des mots, utilisation de quelques librairies de machine learning et d'analyse sémantique)
+
+[Techniques statistiques :]{.underline} Analyse textuelle
+
+[Logiciels :]{.underline} R, JSON
+
+## **BI Consulting**
+
+BI consulting est une société de conseil qui évolue à Paris depuis 19 ans. Son activité principale est le conseil pour les affaires et autres conseils de gestion. Son effectif est compris entre 100 et 199 salariés, elle appartient à la catégorie de petite et moyenne entreprise. Sur l'année 2019, BI consulting a réalisé un chiffre d'affaire de 42 728 700 euros.
+
+[Lieu de stage :]{.underline} 142 Rue Montmartre, 75002 Paris
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Développement d'une application de rapprochement de faiitts d'actualité et de marchés financiers
+
+[Missions(s) :]{.underline}
+
+-   Conception d'une application de rapprochement entre des faits d'actualité et les marchés financiers pour prévoir l'impact d'un phénomène viral ou d'un rumeur provenant du web sur le cours d'une action
+
+-   Accompagner une grande banque française dans son choix d'un outils de Data visualisation
+
+[Techniques statistiques :]{.underline} Big Data, Classification, Régression logistique polytomique, Text-Mining, Data visualisation
+
+[Logiciels :]{.underline} Apache Spark, R
+
+## **Business & Decision**
+
+Business & Decision est un groupe international de consulting et d'intégration de systèmes qui a forgé son expertise dans le domaine de la Business Intelligence (BI) et de la gestion de la relation client. Il reste un des acteurs de l'e-Business. Business & Decision offre des solutions adaptées à de nombreux secteurs d'activité : banque et assurance (Crédit agricole, La Banque Postale, BNP Paribas...), pharmacie, santé, Distribution et PCG (Unilever, DARTTY, LVMH, LACOSTE...) , industrie (Sony, Audi, Alstrom..) , télécoms et médias (Canal+, M6, Bouygues Télécom, LeMondr,fr...), services publics et privés (LaPoste, APCE,...) etc...
+
+[Lieu de stage :]{.underline} Paris
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline} Etude économique sur des taux d'intérêt étrangers
+
+[Missions(s) :]{.underline}
+
+-   Faire un état de l'art sur le sujet du stage
+
+-   Identifier les différentes sources de données et la documentation nécessaire
+
+-   Collecter, trier et nettoyer les données identifiées comme pertinentes
+
+-   Faire une première analyse descriptive
+
+-   Créer différents jeux de données nécessaires à la modélisation
+
+-   Le cas échéant refaire un choix des variables pertinentes
+
+-   Mettre en œuvre différentes modélisations statistiques
+
+-   Comparer les modèles
+
+-   Conclure en répondant à la problématique posée (choix du modèle)
+
+[Techniques statistiques :]{.underline} Macro économie et finance, Modélisation statistique
+
+[Logiciels :]{.underline} SAS, R, Python
+
+**Promotion 2019 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Comparaison de données textuelles: étude de la similarité syntaxique entre les articles de presse
+
+[Missions(s) :]{.underline} Extraire des articles de presse en lignes, les analyser en vue de détecter les similarités (au sens syntaxique) entre elles.
+
+[Techniques statistiques :]{.underline} Modélisation ( le web scraping : consiste à extraire des informations sur des pages web, et les mettre sous une forme exploitable. L'extraction s'effectue le plus souvent par des programmes informatiques par exemple les frameworks Python permettent de faire l'extraction.)
+
+[Logiciels :]{.underline} SAS & Python
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline} Etude des systèmes de recommandation: Cas d'usage et mise en œuvre pour des produits électriques
+
+[Missions(s) :]{.underline} Tester différentes méthodologies de recommandation, afin d'aider l'entreprise à mieux maitriser les algorithmes de recommandations.
+
+[Techniques statistiques :]{.underline} KNN, scoring
+
+[Logiciels :]{.underline} SAS & Python
+
+*Stage 3 :*
+
+[Intitulé du stage :]{.underline} Etude des déterminants du prix de l'immobilier en France
+
+[Missions(s) :]{.underline} Exploration de la base de données de la demande des valeurs foncières, publiée en Avril 2019 dans le but d'identifier les déterminants du prix de l'immobilier en France en se basant sur des méthodes statistiques et les approches de Machine learning
+
+[Techniques statistiques :]{.underline} Machine learning, Modélisation statistique
+
+[Logiciels :]{.underline} Python, Javascript
+
+*Stage 4 :*
+
+[Intitulé du stage :]{.underline} L'intelligence artificielle pour la lutte contre la fraude des flammes publicitaires
+
+[Missions(s) :]{.underline} Utilisation des techniques de Deep Learning pour la Conception et entraînement d'un réseau de neurones convolutif pour la classification des images des plis en deux catégories: les plis avec flamme publicitaire et les plis sans flamme publication afin de détecter les machines. Cette classification va permettre de détecter les machines à affranchir qui utilisent les flammes publicitaires sans payer d'abonnement.
+
+[Techniques statistiques :]{.underline} Deep learning, computer vision, réseaux de neurones convulsifs, classification des images
+
+[Logiciels :]{.underline} Python, TensorFlow
+
+*Stage 5 :*
+
+[Intitulé du stage :]{.underline} Génération automatique des observations à partir des réseaux sociaux : cas twitter
+
+[Missions(s) :]{.underline} La maîtrise des outils du text mining et la mise en place d'un algorithme d'extraction automatique de données sur twitter afin de créer un thésaurus propre à l'entreprise à partir d'une sémantique pré-définie..
+
+[Techniques statistiques :]{.underline} Extraction, Text mining, Thesaurus, Python, IA, observation, web scraping, machine learning
+
+[Logiciels :]{.underline} Python, Knime
+
+*Stage 6 :*
+
+[Intitulé du stage :]{.underline} Modélisation du prix de l'immobilier
+
+[Missions(s) :]{.underline} Utlisation des techniques de Machine learning pour la prédiction des prix de l'immobilier en France en fonction des caractérisques du logement. Mobilisation des connaissances statistiques et de modélisation linéaire multiple...Proof of Concept
+
+[Techniques statistiques :]{.underline} Machine learning, Data engineer, modèle explicatif, modèle prédictif ( réseaux de neurones, arbres de décision, RandomForest), Data visualisation
+
+[Logiciels :]{.underline} Python, QGIS
+
+## **Capgemini**
+
+Capgemini est le leader du marché de l'industrie du conseil et des services informatiques en entreprise dans le monde, sa croissance internationale s'est construite grâce à une stratégie de développement et de diversification de métiers. La société a été fondée par Serge Kampf le 1er octobre 1967 à Grenoble, en France, sous le nom de « Sogeti » (Société pour la gestion de l'entreprise et traitement de l'information). A l'instar de ses grands concurrents, le groupe Capgemini s'est développé à travers de plusieurs acquisitions dans tous les secteurs d'activités liés aux services informatiques : intégration de systèmes, l'infogérance, consulting, outsourcing.
+
+[Lieu du stage :]{.underline} 11 rue de Tilsitt 75017 Paris France
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Machine Learning dans le domaine de la Supply Chain: Cas du Groupe Carrefour
+
+[Missions(s) :]{.underline}
+
+-   Réécriture des codes pour l'Optimisation de leur temps d'éxécution en vue de faire des prévisions des sorties d'entrepôt... \[travail en projet via l'utilisation de données extraites d'un Data lake (Le Data Lake est un référentiel de données permettant de stocker une très large quantité de données brutes dans le format natif pour une durée indéterminée. Il regroupe les données structurées en provenance de bases de données relationnelles en couloir ou en colonne, les données semi-structurées telles que les CSV, les logs, les XML, les JSON, et les données non structurées telles que les emails, les documents et les PDF....Toutes les données d'une entreprise y sont stockées).
+
+-   Mise en place de modèle et prévision en utilisant les techniques de machine learning.
+
+[Techniques statistiques :]{.underline} Machine learning, forecasting, data lake, prévision
+
+[Logiciels :]{.underline} SAS : En particulier SAS Viya ; nouvelle plateforme de SAS hébergée dans le cloud. ( Sas Studio, SAS Visual Analytics pour le reporting, SAS Visual Forecasting pour les prévisions et SAS Visual Data Mining and Machine Learning pour la préparation des données, l'extraction de leurs caractéristiques, la modélisation et la comparaison de modèles ), Hive
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Global AML Transaction Surveillance
+
+[Missions(s) :]{.underline}
+
+-   L'intégration/restitution des données;
+
+-   L'analyse de la qualité des données;
+
+-   La rédaction de spécifications techniques détaillées (en Anglais);
+
+-   L'exécution de tests des développements réalisés,/A la coopération avec les équipes infrastructure et les autres services d' ITEC;
+
+-   La préparation à la mise en production.
+
+[Techniques statistiques :]{.underline} Datawarehouse
+
+[Logiciels :]{.underline} SAS
+
+## **CERFRANCE**
+
+Cerfrance est une entreprise qui est répartie sur le territoire français (métropole et outre-mer) avec plus de 700 agence, et qui exerce depuis plus de 60 ans. Elle compte parmi elle près de 12 000 collaborateurs et plus de 320 000 clients. Elle a pour objectif d'apporter conseil et expertise comptable à ses clients. Pour Ce faire, ils garantissent à leur clientèle de la performance, des experts au service, une offre qui correspond au mieux à la demande, une possibilité de grande communication à travers un réseau développé.
+
+[Lieu du stage :]{.underline} 18 Rue de l'Armorique, 75015 Paris
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+-   Développer le conseil en gestion de patrimoine en détectant les potentiels adhérents de Cerfrance Brocéliande qui auraient de l'appétence aux prestations de conseil en gestion du patrimoine.
+
+-   Mesurer la consommation des services par les adhérents via un tableau de bord.
+
+[Techniques statistiques :]{.underline} Visualisation des données / Machine learning
+
+[Logiciels :]{.underline} Python / powerbi
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Impact météorolique sur la clientèle
+
+[Missions(s) :]{.underline} Prédire au client, selon la météo, comment il va devoir appréhender sa saison financièrement, par l'estimation de l'impact selon sa sensibilité au climat.
+
+[Techniques statistiques :]{.underline} K-Means, CAH, ACP, Data visualisation
+
+[Logiciels :]{.underline} R, SPARK, Python, HTML, Sql
+
+## **CGI**
+
+CGI, fondée en 1976 par Serge Godin est une des entreprises canadiennes de Services du Numérique (ESN) les plus importantes au monde. Elle est présente aujourd'hui dans 40 pays. En 2021, elle compte environ 80 000 professionnels, plus de 5500 clients et réalise un chiffre d'affaires de 8milliards d'euros. En France, CGI figure parmi les 10 meilleures ESN avec un chiffre d'affaires de plus d'un milliard d'euros et plus de 11 000 professionnels
+
+[Lieu du stage :]{.underline} CGI France SAS -- Immeuble Energies 3 avenue Belle Fontaine 35510 Cresson
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+-   Missions interne à CGI: Etablir des modèles de deep learning via les réseaux de neurones pour détecter les objets sur les images et créer un Framework application permettant d'exposer les résultats de ces modèles.
+
+-   Mission externe en tant qu'administrateur SAS: faire en sorte que chaque utilisateur puisse accéder à l'application SAS et que ses droits d'accès aux données demandées soient bien définis.
+
+[Techniques statistiques :]{.underline} Deep learning
+
+[Logiciels :]{.underline} Python/ Flask/ Html/ Javascript/ CSS/ SAS
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline}
+
+-   Récolter des données pour la création d'un réseau de neuronnes
+
+-   Création d'une application sous FLASK utiilsant le réseau et la méthode d'industrialisation choisie
+
+[Techniques statistiques :]{.underline} Deep learning
+
+[Logiciels :]{.underline} SAS Viya, SAS Base 9.4M5, Windows, Linux,Python
+
+## **CROSS SYSTEMS**
+
+Cross est une ESN qui dépend totalement de la Holding Micropole Suisse, qui elle-même dépend totalement du groupe Micropole France. L'ESN propose des prestations en conseils et de services en systèmes d'information.
+
+[Lieu de stage :]{.underline} 1227 GENEVE LES ACACIAS
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Mise en place d'une solution data de bout en bout
+
+[Mission(s) :]{.underline} Mettre en place les plateformes Cloud Data Platform (Snowflake, GCP, AWS, Azure) / Mise en place d'un ou plusieurs ETL pour l'intégration des données / Mise en place d'un ou plusieurs outils de restitution (Qlik Sense, Tableau Software ...) / Choix et mise en place d'une solution de machine.
+
+[Techniques statistiques :]{.underline} Automatisation des données / Benchmarking / Modélisation / Tableaux de bord
+
+[Logiciels :]{.underline} Nowflake, GCP, Azure, AWS, différents outils ETL, Qlik Sense, Tableau software, Power BI
+
+## **Data Company**
+
+Data company est une entreprise de consulting créée en 2019 dont le siège social se trouve à paris. Son activité principale est le conseil en systèmes et logiciels informatiques. Son effectif est compris entre 3 et 5 salariés. Sur l'année 2019, son chiffre d'affaires s'élève à 4404700 euros. Elle appartient à la catégorie petite et moyenne entreprise.
+
+[Lieu de stage :]{.underline} 32 RUE de paradis 75010 Paris
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline} Analyse des données clients
+
+[Mission(s) :]{.underline}
+
+-   Explorer les Open data liées à la consommation des français pour trouver des axes de comparaison avec les données transactionnelles fournies par nos 60 partenaires
+
+-   Analyser et recommander des secteurs de consommation forts ou émergents (Par exemple les services à la personne)
+
+-   Identifier des faiblesses à corriger dans la structure de la composition de la mégabase
+
+-   Massifier les historiques de performance de campagnes marketing pour déterminer des segments par type d'offres et de canaux exploités avec une ouverture vers une dimension globalisée sur le territoire français
+
+-   Construire les bases d'une prédiction de réactivité de sollicitation à des dons aux organisations caritatives, selon les données géomarketing.
+
+[Techniques statistiques :]{.underline} Machine learning, scoring
+
+[Logiciels :]{.underline} R
+
+## **Data Vectis**
+
+Data Vectis est une société de service spécialisée dans le secteur d'activité du conseil en systèmes et logiciels informatiques. Elle est en activité depuis 2018 et offre des formations en big data et ses technologies en collaboration avec un cabinet spécialisé. Les activités de Data Vectis couvrent également les prestations suivantes : Conseil et assistance à la maîtrise d'ouvrage les transformations digitales et l'optimisation des processus métiers de même que le support aux grands projets de transformation
+
+[Lieu du stage :]{.underline} 19 Rue de Montyon, 75009 Paris
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline} Data Engineer au PMU / Data scientsit en interne
+
+[Missions(s) :]{.underline}
+
+-   Maintenir le data lake et le faire évoluer. Migrer les projets existants de OnPremises vers le data lake AWS.
+
+-   Automatiser la récupération des informations présentes dans un CV
+
+[Techniques statistiques :]{.underline} Visualisation des données
+
+[Logiciels :]{.underline} Python(Text Mining et de Natural Langage Processing (NLP))/ Scala, Spark /AWS Cloud/ Dataiku/ Git/ Confluence
+
+**Promotion 2019 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Réalisation d'une solutionBig data/Machine learning de monitoring d'un systéme d'information
+
+[Missions(s) :]{.underline} Réalisation d'une solution Big Data et machine learning pour la détection, la classification et la prédiction des erreurs dans un système d'information des imprimantes connectées.
+
+[Techniques statistiques :]{.underline} Naive bayes (est un algorithme de classification multiple qui suppose que tous les attributs des données d'apprentissage sont indépendants. Il calcule la proba conditionnelle de chaque attribut.), régression logistique (qui est utilisée pour développer un modèle de régression lorsque la variable cible ou prédictif est catégorique. Ct algorithme exige que les attributs et la variable cible soient linéairement indépendants.),et enfin l'arbre de décision ( il associe une proba à chacun des choix possibles en fonction du contexte de la décision.
+
+[Logiciels :]{.underline} Spark, Kibana (visualisation), HDFS ( Hadoop Distributed File System : est un système de fichiers distribué conçu pour fonctionner sur du matériel standard, tolérant aux pannes et convient aux applications disposant de grands ensembles de données et assure un accès à haut débit aux données), Kafka (est une plateforme Apache distribuée de streaming qui construit un pipeline entre des systèmes et des applications qui doivent avoir accès au même flux de données.)
+
+Stage 2 :
+
+[Intitulé du stage :]{.underline} Estimation de la redevance de circulation des trains
+
+[Missions(s) :]{.underline} Mise en place de différents cas d'utilisation du Produit Minimum Viable (MVP) au travers d'un pipeline de transformation des données au sein de l'écosystème Big data.....Le MVP est la stratégie développement d'un produit répondant au besoin métier par toutes ses fonctionnalités.. Il gère l'estimation à partir des commandes de la redevance de circulation des trains
+
+[Techniques statistiques :]{.underline} big data, regression
+
+[Logiciels :]{.underline} Spark
+
+## **DSI-Consulting**
+
+DSI consulting est une société à responsabilité limitée localisée à LE PLESSIS-ROBINSON (92350) depuis 7 ans. La société est spécialisée dans le secteur d'activité du conseil en systèmes et logiciels informatiques. Elle emploie entre 10 et 19 salariés, et appartient à la catégorie de petite et moyenne entreprise. Son chiffre d'affaires s'élève à hauteur de 1 267 600 euros sur l'année 2019.
+
+[Lieu du stage :]{.underline} 41 Avenue du Général Leclerc, 92350 Le Plessis-Robinson
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Conception et développement d'une solution environnement agricole avec semences climat
+
+[Missions(s) :]{.underline}
+
+[Techniques statistiques :]{.underline} Arbre de décision, KNN
+
+[Logiciels :]{.underline} Spark, Python, R
+
+## **Efficience 3**
+
+Fondé à Reims en 1985, Efficience3 est un institut d'études marketing et opinion indépendant. Fort d'une croissance approfondie des marchés et clients, actif dans plus de 80 pays et territoires, l'entreprise relève beaucoup de défis et possède une équipe qui s'implique avec simplicité, convivialité et professionnalisme dans chacun de ses projets. Depuis 30 ans. l'institut d'études indépendant d'une cinquantaine de salariés implanté à Reims réalise des sondages, enquêtes d'opinion, études qualitatives, en France et en Europe, pour le compte de clients internationaux, en garantissant service client et respect de la qualité (ISO 9001). Lorsqu'Efficience3 fut créée, elle était sous forme d'association, la société telle qu'elle existe aujourd'hui est constituée en janvier 1985 avec une activité essentiellement consacrée aux études et au conseil à caractère commercial auprès des entreprises dans la région du Nord-est. Ce n'est qu'à partir de 1992, que la SARL se positionne sur les études marketing et entame un développement international. En 2002, l'entreprise se diversifie par le lancement d'un Omnibus qui lui permet d'aborder de nouveaux marchés.
+
+[Lieu du stage :]{.underline} 26 Rue Buirette, 51100 Reims
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Mise en place des études téléphoniques au sein du département CATI & Online
+
+[Missions(s) :]{.underline}
+
+-   Apporter assistance et aide aux assistants et chargés d'études internes dans la mise en place des études téléphoniques et online. Ceci passe par les différents paramétrages, les tests, les recherches d'informations préalables\...
+
+-   Exploiter les résultats, en passant par la vérification de données, rédaction et relecture des rapports.
+
+-   Mettre à jour et optimiser une macro VBA
+
+-   Mettre en place un outil pour la segmentation : réflexion sur les méthodes et son application à différentes études.
+
+[Techniques statistiques :]{.underline} ACM, CAH
+
+[Logiciels :]{.underline} R, Excel VBA, Askia
+
+## **Equancy**
+
+Equancy est un cabinet de conseil international, basé à Paris et Dubai, spécialisé dans la transformation digitale des entreprises. Son activité principale consiste à la planification, la conception et la mise en œuvre des solutions Big Data, Data Science et Intelligence Artificielle pour ses clients.
+
+[Lieu du stage :]{.underline} 4 Rue Jules Lefebvre, 75009 Paris
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline} Identifier de nouvelles techniques de monitoring en machine learning et étudier la mise en œuvre de ces techniques sur un modèle de Churn d´eveloppé et déployé en production en 2019 pour La Poste Mobile.
+
+[Missions(s) :]{.underline} L'optimisation de la stratégie de ciblage de Nespresso et l'identification des nouvelles techniques de monitoring de modèles de Machine Learning en production.
+
+[Techniques statistiques :]{.underline} Machine learning
+
+[Logiciels :]{.underline} SPSS Modeler, SQL, BigQuery, GCP, Oracle, Python, PySpark, DataBricks, Azure
+
+## **Greenflex**
+
+Créée en 2009, GreenFlex est devenue l'un des principaux acteurs européens de son secteur avec plus de 600 clients. GreenFlex accompagne ses clients dans leur gestion efficace de l'énergie en combinant les métiers de l'intelligence des données et de la gestion et du financement d'équipements.
+
+[Lieu du stage :]{.underline} 16 boulevard Montmartre Paris
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline} Mise en œuvre opérationnelle du CRM en mode multicanal pour la coopération CRM Services
+
+[Missions(s) :]{.underline}
+
+-   Mise en œuvre opérationnelle du CRM en mode multicanal pour la coopération CRM Services (requêtage sur UNICA - logiciel maison- ciblages ; mise en place projets et tests ; mise en production ; enrichissement; bilan quanti et quali ; développer des outils
+
+-   Collecte, structuration et enrichissement de données (via des API)
+
+-   Datamining et exploration des bases de données : analyses statistiques (sous R)
+
+-   Définition et validation d'indicateurs
+
+-   Interprétation des résultats par croisement avec l'expertise métier
+
+-   Élaboration des outils de reporting (sous QLIK)
+
+[Techniques statistiques :]{.underline} Data mining, Data visualisation
+
+[Logiciels :]{.underline} R, Qlik Sense
+
+## **Greenomy**
+
+Greenomy est une startup Regtech (Regulatory -- Technology) fournissant aux entreprises, aux investisseurs et aux prêteurs des outils réalisables et rentables pour automatiser la génération, la validation, la gestion et la divulgation des données ESG qui sont nécessaires pour se conformer au règlement de l'UE sur la Taxonomie ainsi qu'aux réglementations et normes ESG actuelles et futures (par exemple, SFDR, NFRD, CSRD, etc.
+
+[Lieu de stage :]{.underline} Luxembourg
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} ESG & Sustainability Data Analysis
+
+[Mission(s) :]{.underline}
+
+1.  Mise en œuvre de la taxonomie et soutien à la conformité :
+
+-   Synthétiser et traduire les informations complexes de la taxonomie de l'UE en documents clairs, informatifs et convaincants ;
+
+-   Mise en correspondance entre les réglementations dans le cadre du plan d'action de l'UE sur le financement de la croissance durable (SFDR, NFRD) et au niveau international (TCFD, SDGs, SASB, GRI, etc) ;
+
+-   Recherche des politiques, des tendances et des meilleures pratiques liées au calcul des critères et des seuils pertinents pour les activités éligibles ;
+
+-   L'évaluation préliminaire des activités économiques (rigueur et utilité).
+
+2.  Analyse des données :
+
+-   Travailler en collaboration avec l'équipe informatique pour mettre en œuvre les concepts de taxonomie .
+
+-   Participer à l'implémentation et l'analyse des données
+
+3.  Suivi et politiques :
+
+-   Participer à la durabilité de la roadmap de Greenomy.
+
+-   Taches ad-hoc (par exemple, préparation de présentations, réunions, documentations)
+
+-   Évaluer les opportunités du marché et faire des recommandations.
+
+[Logiciels :]{.underline} Bloomberg, CDP, RStudio, Slack
+
+## **Groupe AVISIA**
+
+Le Groupe AVISIA est un cabinet de conseil, intégration et réalisation de projets data. Il est organisé en 3 pôles que sont  Conseil et AMOA, Décisionnel et Big Data et Performance Analytique. En tant que SAS Platinium Partner, l'entreprise propose une offre complète de services autour de la Data en restant ouverte et experte sur toutes les technologies modernes utilisées en Data Science.
+
+**Promotion 2018 :**
+
+Lieu du stage : 48 Avenue Victor HUGO Paris
+
+[Intitulé du stage :]{.underline} Mise en place d'un projet d'alimentation de la base extranet d'AVISIA contenant l'ensemble des descriptifs des missions et des compétences des consultants d'AVISIA
+
+[Missions(s) :]{.underline}
+
+-   Compréhension des besoins et des enjeux du projet.
+
+-   Réflexion sur la réalisation du projet.
+
+-   Automatisation de l'extraction des informations contenues dans les CV des collaborateurs au format Word.
+
+-   Réalisation de phases de test et de validation.
+
+-   Création de bases de données associées.
+
+-   Réalisation de tests pour l'alimentation des bases extranet.
+
+-   Validation du programme.
+
+[Techniques statistiques :]{.underline} SAS, SQL, R, VBA
+
+[Logiciels :]{.underline} Python
+
+**Promotion 2017 :**
+
+[Lieu du stage :]{.underline} 8 Avenue Kléber, 75116 Paris
+
+[Intitulé du stage :]{.underline} Etude Digital Analytics et Reporting : cas du e-commerce en B2B
+
+[Missions(s) :]{.underline}
+
+-   Concevoir et réaliser une architecture des outils associés à la stratégie digitale ;
+
+-   Mettre en place des processus d'automatisation de la collecte, de la transformation et de la restitution des données ;
+
+-   Concevoir et réaliser un tableau de bord des données online et offline
+
+[Techniques statistiques :]{.underline} Analyse d'audience
+
+[Logiciels :]{.underline} Google Data Studio, Python, R
+
+## **Hanalytics**
+
+Hanalytics accompagne les entreprises dans le développement de leur activité grâce à la data. Ses employés mettent leurs compétences en Data & Digital au service des entreprises afin qu'elles puissent activer et exploiter dans les meilleurs conditions leur capital Data. Hanalytics intervient à tous les niveaux de la chaîne de valeur de la Data.
+
+[Lieu du stage :]{.underline} Paris
+
+**Promotion 2022 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Data gouvernance : Cas de Valorissimo
+
+[Missions(s) :]{.underline}
+
+-   Mission 1 : Valorissimo Analyses comportementales des utilisateurs de la plateforme ; Product Analysis ; Market Analysis ;
+
+-   Mission 2: Création de pipeline de données et des pipelines d'analyse de données avec SQL et Python
+
+[Techniques statistiques :]{.underline} Visualisation des données / Analyse des données
+
+[Logiciels :]{.underline} Google Cloud Platform/ Data Build Tools/ Google Data Studio/ Google Analytics/ Google Tag Manager/ Deepnote/ Secoda/ Airbyte/ Stitch/ Hightouch/ Metaplane-Data
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline} Analyse des facteurs qui influence le taux de clic sur les bannières promotionnelles
+
+[Missions(s) :]{.underline} Analyse des facteurs qui influencent le taux de clic sur les bannières promotionnelles pour chacun des clubs (club Marmara, club Lookéa et Nouvelle frontière) de la compagnie Tui France
+
+[Techniques statistiques :]{.underline} Machine learning
+
+[Logiciels :]{.underline} Google analytics/ DBT/ BigQuery/ Rstudio
+
+*Stage 3 :*
+
+[Intitulé du stage :]{.underline} Modern Data Stack -- Data Quality
+
+[Missions(s) :]{.underline} Faire des reportings des Kpi's de l'entreprises de façon hebdomadaire, généralement les lundi au profit de l'équipe Marketing de Mes demoiselles de Paris. D'autres demandes s'ajoutent pour le même client telles que la mise en place des pipelines de données sur SQL à des fins d'analyse, la mise en œuvre de certains algorithmes de machine Learning sur python (Scoring, segmentation...), la refonte des Dashboards et leur maintenance sur Data Studio et la documentation reposant sur la description des variables, et des tables des différentes bases de données grâce à l'outil Secoda.
+
+[Techniques statistiques :]{.underline} Visualisation des données / Machine learning
+
+[Logiciels :]{.underline} Python/sql
+
+## **Innogence Consulting**
+
+« Innogence » comme Innovation et Intelligence, c'est un cabinet de consulting spécialisé en Intelligence économique et en stratégie d'innovation. L'intelligence économique c'est l'ensemble des activités coordonnées de collecte, de traitement et de diffusion de l'information utile aux acteurs économiques, en vue de son exploitation. Basé en France et en Côte d'Ivoire ; Elle accompagne ses partenaires et clients à mieux maitriser leur environnement.
+
+[Lieu de stage :]{.underline} 93100 Montreuil
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Chargée d'étude de marché
+
+Mission(s): Conception d'une démarche méthodologique et choix des outils les plus pertinents pour des études de marché / Collecte de données quantitatives et qualitatives dans divers secteurs d'activités, notamment sur le marché africain / Analyse et synthèse des résultats des études de marché / Élaboration de rapports d'études de marché (français et anglais) / Présentation des résultats obtenus et formulation de recommandations stratégiques à l'issue des études / Veille concurrentielle et technologique
+
+[Techniques statiques :]{.underline} Analyse de données
+
+[Logiciels :]{.underline} Excel / R studio / Xmind
+
+## **JANASENCE**
+
+Janasense est un service connecté de prévention des risques de fragilité de la personne pour une sérénité partagée du couple aidant/aidé. Des révélateurs de vie équipés de capteurs permettent, avec une dose d'intelligence artificielle, d'identifier et d'anticiper les défaillances et risques de fragilité par une analyse prédictive et donc d'accompagner le mieux-être de la personne. Et se servir de toutes ces données pour des buts médicales après : des symptômes liés à la dépression ou encore une mauvaise qualité nutritionnelle.
+
+[Lieu du stage :]{.underline} 1 Avenue du Champ de Mars, Le Lab'O, 45100 Orléans
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Modélisation des comportement
+
+[Missions(s) :]{.underline} Construire des modèles de machine learning afin de modéliser les comportements et détecter les de la vie quotidienne de la personne telles que : se réveiller, dormir, prendre un bain, etc. Aussi, je suis amenée à mettre en œuvre des modèles afin d'identifier les zones d'anomalies et les variations de rythme de vie nominal au sein du logement.
+
+[Techniques statistiques :]{.underline} Modèle bayésien, modèle linéaire, Série temporelle, CAH, ACP
+
+[Logiciels :]{.underline} R,SPSS
+
+## **Kheopsys**
+
+[Lieu du stage :]{.underline} Paris
+
+**Promotion 2022 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Mise en place d'un MLOps sur Cloud
+
+[Missions(s) :]{.underline} Concevoir un MLOps en développant un pipeline Machine
+
+Learning sur la plateforme Vertex AI au niveau de Google Cloud Platform.
+
+[Techniques statistiques :]{.underline} Machine learning MLOPS
+
+[Logiciels :]{.underline} Google Cloud Platform et Amazon Web Service /Python/ Slack c/Asana
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline} Industrialisation des pipelines Machine Learning
+
+[Missions(s) :]{.underline} Mettre en place un mécanisme qui sert à automatiser les tâches d'importation, de traitement des données, ainsi que le training du modèle Machine Learning et la prédiction. Deux pipelines sont à implémenter : Un pipeline de training qui sert à entraîner le modèle de prédiction et l'évaluer. L'output final sera un fichier Excel contenant les identifiants et les prédictions correspondantes. On pourra également visualiser la performance du modèle en affichant l'accuracy, le score AUC, la courbe ROC, le F1 score ainsi que la matrice de confusion. Le deuxième pipeline est un processus industrialisé et adapté à la production. Il traite les nouveaux flux de données, et génère des prédictions en utilisant le modèle déjà entraîné et stocké par le premier pipeline. Le processus s'achève par la configuration d'un mécanisme CI/CD1 pour assurer l'intégration continue des modifications apportées sur les deux pipelines.
+
+[Techniques statistiques :]{.underline} MLOPS
+
+[Logiciels :]{.underline} google Cloud Platform/ python/ BigQuery
+
+## **QUANT AI LAB**
+
+QUANT AI Lab est une firme internationale, spécialisée dans la Data, l'IA et l'analytique avancée pour l'audace, la performance et la valeur.
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline} Détection des anomalies
+
+[Missions(s) :]{.underline} Procéder à l'implémentation de techniques pour la détection des outliers au sein de QBox.
+
+[Techniques statistiques :]{.underline} Machine learning
+
+[Logiciels :]{.underline} Stramlit/python
+
+## **Umanis SA**
+
+**Umanis**, créée en 1990 par Laurent Piepszownik, était une entreprise de services numériques française active dans l'informatique décisionnelle et dans les métiers liés aux mégadonnées.
+
+[Lieu du stage :]{.underline} 5 rue Georges de Loup Lyon
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline} Automatisation des transferts de fichiers : Transformation de fichiers XML en tables SAS
+
+[Missions(s) :]{.underline} Intervenir sur la maintenance applicative des applications SAS d'un des clients grand compte : 80% pges SAS sous UNIX, 20% pg shell ; tests unitaires et d'intégration ; analyse des demandes d'évolutions ; livraison en recette.
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} Windows/Linux, SAS Enterprise Guide, Putty, WinSCP
+
+## **Velvet Consulting**
+
+Velvet Consulting est le cabinet de conseil leader dans l'accompagnement des organisations dans leur orientation client. Depuis 2004, grâce ses 250 passionnés de Marketing, Velvet accélère la performance des entreprises en construisant une expérience client des plus complètes et efficaces. L'approche globale et la complémentarité des expertises du cabinet Velvet, accompagnent la transformation centrée client, data et digitale des entreprises. Des orientations stratégiques à la mise en œuvre opérationnelle et technologique.
+
+[Lieu du stage :]{.underline} 64 rue la Boétie Paris
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Data Science, Analyse des parcours digitaux et modèles d'attribution
+
+[Missions(s) :]{.underline} Echange avec les différents acteurs médias présents au sein du groupe WPP et en prenant en main l'ensemble des données relatives à cet environnement (données de navigation, données publicitaires, planning media, etc.). Le projet se concentrera ensuite sur la mise en place des modèles d'attribution et évoluera selon l'avancement du stagiaire, les problématiques rencontrées et résultats obtenus. Selon l'avancement du stage et le profil du candidat retenu, une phase de développement d'interface web pourrait être à prévoir afin de mettre à disposition ces modèles et permettre l'analyse du rôle des différents média dans la conversion
+
+[Techniques statistiques :]{.underline} Dashboard / Analyse de données / Modélisation / Création d'application
+
+[Logiciels :]{.underline} R / Python
+
+**Promotion 2018 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Réalisation d'une étude de faisabilité dans le domaine de gestion des revenus (pour le compte d'une entreprise de service)
+
+[Missions(s) :]{.underline} Optimisation des actions marketing :
+
+-   analyses sur le parcours client ;
+
+-   segmentations marketing ;
+
+-   modélisation prédictive ;
+
+-   automatiser et maintenir les tableaux de bord de pilotage d'activité ;
+
+-   études
+
+[Techniques statistiques :]{.underline} machine learning
+
+[Logiciels :]{.underline} Python
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} Mise en place d'un système de recommandations :
+
+-   Contribution à la conception et la mise en place des briques applicatives
+
+-   Développement de pipelines algorithmiques devlpt et implé. Des algo de recommandations.
+
+-   Développement en environnement big data (Spark, Hive, Python, ) sur des pbtiques d'intégratonde données et d'industrialisation du machine learning.
+
+[Techniques statistiques :]{.underline} machine learning, series temporelles
+
+[Logiciels :]{.underline} Spark, Hive, Python

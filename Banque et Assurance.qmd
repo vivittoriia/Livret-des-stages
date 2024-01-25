@@ -1,0 +1,493 @@
+---
+title: "Banque et Assurance"
+---
+
+## **Allianz IARD**
+
+Allianz IARD est une entreprise régie par le code des assurances créée en 1912, dont le siège social est situé à Paris. Elle est spécialisée dans le secteur des assurances. Elle emploie 2 000 à 4 999 salariés. Allianz France est un acteur majeur du secteur des assurances avec près de 13 milliards d'euros de chiffres d'affaires en 2018. Elle est classée dans la catégorie des grandes entreprises (GE).
+
+[Lieu de stage :]{.underline} 100-101 Terrasse Boieldieu --Tour Franklin, 92800 La défense 9
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} Travail sur les contrôles internes des souscriptions des contrats d'assurance dans plusieurs branches différentes.
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} Pyspark, python, Jira, Git, Pycharm
+
+## **AVIVA**
+
+Le groupe Aviva est un assureur généraliste qui propose tous types de produits d'assurances. C'est un des premiers assureurs Européens avec Axa, Allianz et Generali. De façon générale, ses missions se déclinent sur 3 principales activités qui sont : l'Assurance, la Protection et l'Epargne. Elles sont elles-mêmes divisées en sous-catégories : pour l'Assurance, on retrouve 4 catégories telles que l'Assurance Automobile, l'Assurance Habitation, l'Assurance Emprunteur et les Assurances Professionnelles. Pour la Protection, on retrouve 3 catégories telles que la Protection de la famille, la Prévoyance et la Santé (les complémentaires Santé). Pour l'Epargne, on retrouve également 3 catégories telles que l'Assurance vie, la Retraite et la Gestion financière. En clair, il faut noter que la partie Assurance consiste à assurer par le biais d'un contrat un ou plusieurs bien(s). Quant à la partie Protection, elle consiste à couvrir le salaire d'une personne indépendante lorsqu'elle a un accident de travail. L'Epargne, permet de réaliser des placements financiers.
+
+[Lieu de stage :]{.underline}72000 Le Mans
+
+[Intitulé du stage :]{.underline}
+
+[Mission(s):]{.underline}
+
+-   Création, mise à jour, maintenance de tableaux de bords et d'indicateurs clés de performance
+
+-   Automatisation de tableaux de bord
+
+-   Construire des modèles de prévision
+
+-   Optimisation des traitements -- Proposition d'axe d'amélioration
+
+-   Communication des résultats (reporting).
+
+[Techniques statistiques :]{.underline} Dashboard / Prédiction
+
+[Logiciels :]{.underline}Python / Excel / Google collab / Qlik
+
+## **AXA France**
+
+AXA est un groupe français spécialisé dans l'assurance des personnes et des biens (véhicules, habitation, équipement), ainsi que dans la gestion des actifs. Le groupe couvre aussi bien les particuliers et leurs proches que les entreprises et leurs salariés.
+
+Ce groupe est issu des diverses fusions et acquisitions de compagnies d'assurance dont la plus ancienne, l'Ancienne Mutuelle de Rouen, date de 1817. Le groupe devient le deuxième assureur français et prend le nom d'AXA en 1985. L'acquisition de l'Union des Assurances de Paris (UAP) en 1996 consacre AXA comme premier assureur de l'Hexagone et deuxième assureur mondial. AXA poursuit dans les deux décennies qui suivent son développement à l'international et dans les pays émergents. Le groupe AXA a ainsi été élu première marque d'assurance mondiale en 2017, et ce pour la neuvième fois consécutive. En 2021, AXA est le deuxième assureur européen, le quatrième assureur mondial en termes de CA (chiffres d'affaires) et le troisième en termes d'actifs non bancaires détenus.
+
+[Lieu de stage :]{.underline} Marly-le-Roi
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline} Stage en tant que Chargé d'études statistiques
+
+[Missions(s) :]{.underline} Concevoir et fabriquer des présentations des résultats de l'année 2021 en interne à l'attention des équipes commerciales et de souscription, et ce pour chacune des cinq régions géographiques en lesquelles est subdivisée la France. Les statistiques porteront sur le périmètre généraliste pour les salariés, les collectivités locales et les associations.
+
+[Techniques statistiques :]{.underline} Modélisation statistique
+
+[Logiciels :]{.underline} Word/ Excel/ Outlook/ Powerpoint/ WPS Analytics de la société World Programming/ SAS
+
+## **BNP Paribas Cardif**
+
+BNP Paribas Cardif est un groupement d'intérêt économique du groupe BNP Paribas, spécialisée dans l'assurance. Créée en juillet 1973, la société est basée à Nanterre. En 2021, BNP Paribas Cardif emploie 8000 personnes, pour un chiffre d'affaires de 32,6 milliards d'euros.
+
+[Lieu de stage :]{.underline} 8 rue du Port, 92728
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Elaboration d'un score de rachat en assurance vie
+
+[Missions(s) :]{.underline} Transformer les sélections aléatoires de demandes de rachats vérifiés en une sélection ciblée sur les rachats anormaux.
+
+[Techniques statistiques :]{.underline} Régression logistique, forêts aléatoires
+
+[Logiciels :]{.underline} Python
+
+## **Generali**
+
+Generali est une compagnie d'assurance italienne fondée en 1831. Elle fait partie des leaders de ce domaine, Il s'agit en effet de la 3ème compagnie au monde derrière Allianz et Axa. Elle est très largement implantée en France et une position forte sur l'assurance vie.
+
+[Lieu de stage :]{.underline} 11 Av. François Mitterrand, 93210 Saint-Denis
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} La production de programmes de traitement et de mise à plat de données reçues par des fournisseurs extérieurs en vue de leurs ingestions dans le datalake Hadoop.
+
+[Techniques statistiques :]{.underline} Visualisation des données
+
+[Logiciels :]{.underline} SQL/ VBA
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Ingénieur de données
+
+[Missions(s) :]{.underline} Contribuer à la mise en œuvre d'une solution de traitements des données en vue de la création de reporting opérationnel des directions de marchés et du Comex/ Cadrer les besoins du périmètre du service Pilotage Opérationnel./ Analyser les étapes de traitement de la donnée (ingestion, nettoyage, préparation, transformation, présentation, optimisation) / Participer à la mise en place d'un POC avec les outils proposés par la DSI ·/ Contribuer à qualifier les outils en fonctions des besoins du service Pilotage Opérationnel.
+
+[Techniques statistiques :]{.underline} Analyse des données
+
+[Logiciels :]{.underline} DataIku/ Plateforme Big Data Hadoop-Spark
+
+## **GROUPAMA**
+
+**Groupama** est une société d'assurance française. Elle possède deux marques commerciales :
+
+-   Groupama, marque d'assurance généraliste distribuée par le réseau des Caisses régionales. Elle est implantée dans 10 pays, notamment en Europe (France, Italie, Hongrie, Roumanie, Grèce, Bulgarie et Slovaquie), en Turquie, en Tunisie et en Chine ;
+
+-   Gan, assureur des entrepreneurs porté par Gan Assurances et Gan Eurocourtage, deux réseaux généralistes, ainsi que Gan Patrimoine et Gan Prévoyance, deux réseaux spécialisés.
+
+**Promotion 2020 :**
+
+*Stage 1 :*
+
+[Lieu de stage :]{.underline} 2 rue Léon Patoux - 51686 Reims cedex 2
+
+[Intitulé du stage :]{.underline} Data scientist
+
+[Missions(s) :]{.underline}
+
+-   Fiabiliser et retravailler la base de données sous R et/ou Python
+
+-   Appliquer les méthodes de datas cience pour analyser le profil des clients résiliés
+
+-   Formaliser les résultats obtenus
+
+[Techniques statistiques :]{.underline} Analyse de données, gestion des produits et des risques de l'assurance non-vie, modélisations statistiques, techniques de datascience, programmation sous R et Python.
+
+[Logiciels :]{.underline} Microsoft Office, R, Python
+
+*Stage 2 :*
+
+[Lieu de stage :]{.underline} 8-10 rue d'Astorg, 75008 Paris
+
+[Intitulé du stage :]{.underline} Actuariat/ gestion des sinistres
+
+[Missions(s) :]{.underline} exploration de données, entretien, selection et validation des modèles.
+
+[Techniques statistiques :]{.underline} Machine learning, exploration de donnée, gestions de sinistres
+
+[Logiciels :]{.underline} Dataiku, R, Python
+
+## **MGP**
+
+La MGP est une mutuelle d'assurance créée par et pour les policiers il y a plus de 60 ans. Il s'agit d'une structure ayant l'ambition de faire vivre un système favorisant l'accès à des soins de qualité pour tous ses adhérents, dans leur vie familiale mais aussi dans vie professionnelle.
+
+[Lieu du stage :]{.underline} 23 Rue de Palestro, 75002 Paris
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Tableau de bord et prédictions statistiques
+
+[Missions(s) :]{.underline} Mise à jour des tableaux de bord et consolidation de données /Réalisation d'une fiche de proposition d'action /Réalisation de prévisionnel
+
+[Techniques statistiques :]{.underline} Séries Chronologiques
+
+[Logiciels :]{.underline} Excel-VBA
+
+## **BANQUE POPULAIRE VAL DE FANCE**
+
+La Banque Populaire Val de France est affiliée au groupe Banque Populaire et Caisse d'Épargne (BPCE) qui est le deuxième groupe bancaire en France. BPCE pratique une multitude de métier de la banque et de l'assurance en étant au plus près des besoins des personnes et des territoires, en s'appuyant sur ses deux grands réseaux coopératifs : Banque Populaire et Caisse d'Épargne, ainsi que sur ses filiales. Les 14 Banques Populaires détiennent des positions de premier plan auprès des PME, des professionnels et de la clientèle patrimoniale et les 15 Caisses d'Épargne auprès des particuliers, des collectivités locales et du logement social.
+
+[Lieu de stage :]{.underline} 78 180 Montigny le Bretonneux
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Réalisation Pilotage Commercial
+
+[Mission(s) :]{.underline}
+
+-   Mise à jLieu de stage:our des tableaux de bord du Pilotage
+
+-   Répondre à des analyses ponctuelles
+
+[Techniques statistiques :]{.underline} Etudes statistiques / Analyse de données / Tableaux de bords
+
+[Logiciels :]{.underline} Pyhton, Hive, Spark, SAS
+
+## **BNP PARIS BAS**
+
+La Banque Nationale de Paris (BNP), première banque française, créée en 1966 par les pouvoirs publics est issue de la fusion du Comptoir Nationale d'Escompte de Paris (CNEP) et de la Banque Nationale du Commerce Internationale (BNCI). La Banque de Paris et des PaysBas devenue Paribas en 1982 est un autre établissement financier, qui, à la suite d'une bataille boursière, fusionne en 2000 avec la BNP pour donner naissance au groupe BNP Paribas.
+
+[Lieu de stage :]{.underline} 75009 PARIS
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Data Analyst
+
+[Mission(s) :]{.underline} Mener certains use-cases de leur définition jusqu'au delivery et à la passation aux équipes de production / Fournir des explications simples et taillées à la mesure des aptitudes techniques des personnes métiers sur les méthodes d'analyses de données et de data visualisations / Faire de la veille technologique, de la R&D et la lecture d'articles sur internet pour trouver les technologies inexistantes à l'interne et qui permettrait de résoudre d'éventuelles problématiques / Spécifier l'agrégation et le niveau de détail en fonction de la population à laquelle la restitution est destinée.
+
+[Techniques statistiques :]{.underline} Automatisation des données / Reporting / Tableau de bord
+
+[Logiciels :]{.underline} Python / SAS / R / domino
+
+## **BNP PARIBAS personal Finance**
+
+BNP Paribas Personal Finance est n°1 du financement aux particuliers en France et en Europe au travers de ses activités de crédit à la consommation. Filiale à 100 % du groupe BNP Paribas, BNP Paribas Personal Finance compte plus de 20 000 collaborateurs et opère dans une trentaine de pays.
+
+[Lieu de stage :]{.underline} Paris
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline} Utilisation des données de navigation pour le profiling dans le e-marketing
+
+[Missions(s) :]{.underline} Travail sur un projet de marketing digital pour traiter des parties liées à la data science (comme le clustering) et des parties développement comme le regroupement de variables
+
+[Techniques statistiques :]{.underline} Machine learning
+
+[Logiciels :]{.underline} Python
+
+## **BNP PARIBAS Securites Services**
+
+[Lieu de stage :]{.underline} 9 rue du Débarcadère Pantin 93500
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline} Creation d'une interface permettant de gerer la gouvernance et la qualité des données
+
+[Missions(s) :]{.underline} Mise en œuvre du progiciel AB Initio pour gérer la gourvenance et la qualité des données. : Process de A à Z de data management sur un système d'info dédié.
+
+[Techniques statistiques :]{.underline} Data visualisation, Régression linaire
+
+[Logiciels :]{.underline} Tableau
+
+## **Caisse d'épargne Bretagne pays de loire**
+
+Implantée sur deux régions et neuf départements, la Caisse d'Epargne Bretagne Pays de Loire est une banque mutualiste régionale de proximité, solide et performante. Banque de référence pour les particuliers et les professionnels, elle est présente sur son territoire avec 420 agences et à distance grâce à Mon banquier en ligne. Partenaire majeur de l'économie locale, 16 centres d'affaires (Entreprises, Collectivités, Associations, Immobilier Professionnel, Logement Social et Economie Mixte) sont répartis sur tout le territoire. Avec ses filiales spécialisées, Sodero Gestion et Batiroc Bretagne Pays de Loire, la Caisse d'Epargne Bretagne Pays de Loire bénéficie également d'une expertise reconnue dans le domaine du capital investissement et du crédit bail immobilier.
+
+[Lieu de stage :]{.underline} 15 avenue de la jeunes seorvault 44700
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline} Analyse et modélisation des données du personnel
+
+[Missions(s) :]{.underline} Création de modèles statistiques à partir des données sociales pour faire de l'analyse prédictive. Construction d'un portail de reporting RH pour l'ensemble de la CEBPL SQL et R
+
+[Techniques statistiques :]{.underline} analyse predictive
+
+[Logiciels :]{.underline} SQL, R
+
+**Crédit Agricole Consumer Finance**
+
+Crédit Agricole Consumer Finance est une filiale de Crédit Agricole S.A, elle est issue de la fusion entre Sofinco et Finaref le 1er avril 2010. Son activité principale est la distribution de crédit à la consommation (Crédit classique, crédit auto et crédit renouvelable) via ses marques principales Sofinco, Viaxel, et Creditlift courtage, par les canaux de distributions (vente directe, financement sur le lieu de vente, e-commerce, partenariat et courtage). Elle propose aussi pour les particuliers des assurances et des produits pour la prévoyance contre les accidents et les aléas économiques.
+
+[Lieu de stage :]{.underline} 59100 ROUBAIX
+
+[Intitulé du stage :]{.underline} Conseil data
+
+[Mission(s) :]{.underline} Datamining / Machine Learning / Data Analyse / Modélisation mathématique et statistique exploitée en Data Science
+
+[Techniques statiques :]{.underline} Analyse de données / Datamining / Modélisation
+
+[Logiciels :]{.underline} Python / Hive / Spark / SAS / Office
+
+## **Crédit Agricole**
+
+Leadeur de la banque de proximité en France et classé 10ème banque mondiale, le CA est engagé dans l'investissement socialement responsable et l'émergence d'un monde plus éthique, Il s'engage à la modernisation du réseau commercial et à l'essor de la banque digitale et poursuit activement son développement dans les métiers de gestion d'actif et de la banque privé en France, en Europe et à l'international. Toutefois, deux principes accompagnent le groupe depuis toujours dans son développement : l'utilité au travers des grandes transformations de la société et l'universalité de ses métiers, de ses offres, de ses territoires et de ses clients.
+
+[Lieu de stage :]{.underline} 92120 Montrouge
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Statistiques, contexte réglementaire en risque de crédit
+
+Mission(s): Réalisation des backtesting des modèles internes (PD, LGD) permettant de s'assurer de la performance, la robustesse et du pouvoir prédictif des modèles internes bâlois / Migration des programmes SAS actuellement utilisés vers le logiciel R / Production de benchmarks permettant d'expliquer les éventuels écarts entre les notations internes et celles des agences externes de notation / Reporting de suivi des modèles internes / Travaux de recherche sur de nouveaux indicateurs et tests statistiques applicables aux LDP (Low Default Portfolios).
+
+[Techniques statistiques :]{.underline} Backtesting / Automatisation des données
+
+[Logiciels :]{.underline} SAS / RStudio
+
+## **Credit Agricole du Nord-Est**
+
+En France, le groupe Crédit Agricole est le premier acteur financier dans l'économie française. Il est considéré comme le Leader dans le domaine de la banque et l'assurance et il est la 1 ère banque de proximité avec plus de 20 millions de clients particuliers.Le Crédit Agricole se compose de 39 caisses régionales, qui se définissent comme étant « des banques coopératives qui assurent les fonctions commerciales, bancaires, financières et logistiques du Crédit Agricole » Chaque caisse régionale est indépendante et toutes partagent les valeurs mutualistes du groupe.
+
+[Lieu de stage :]{.underline} 25 rue Libergier 51088 Reims
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline} Typologie de clientèle & Score d'appétence
+
+[Missions(s) :]{.underline} La mise à jour d'une typologie de clientèle (36-49 ans) ainsi que la mise à jour d'un score d'appétence
+
+[Techniques statistiques :]{.underline} Machine learning
+
+[Logiciels :]{.underline} SAS/ ZEUS(déployée par CATS, dédiée au Big Data)
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Participer aux travaux de l'équipe DataMining
+
+[Mission(s) :]{.underline} Créer et/ou améliorer des scores, des typologies en intégrant l'exploitation de nouvelles données / Réaliser des études clientèle / Analyser les résultats obtenus, valider la cohérence des résultats.
+
+[Techniques statistiques :]{.underline} Segmentation / Etude de la demande / Scoring
+
+[Logiciels :]{.underline} /
+
+[Lieu de stage :]{.underline} 51088 REIMS CEDEX
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline} Scores et typologies dans le domaine bancaire
+
+[Missions(s) :]{.underline} Analyse descriptive, production de score d'appétence, de typologie de client
+
+[Techniques statistiques :]{.underline} Scoring, segmentation
+
+[Logiciels :]{.underline} SAS, Python, R
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Data mining au Crédit Agricole du Nord-Est: scores d'appétence et géomarketing
+
+[Missions(s) :]{.underline} Réalisation de scores d'appétence en flux, en crédit et en assurance... La méthode en flux consiste à regarder les profils des clients avant la souscription d'un produit, sur une période définie de 1 ou 2ans pour cibler les clients qui ont les mêmes profils aujourd'hui. Elle s'oppose à la méthode dite en \<stock\> qui consiste à regarder les profils des clients à un instant \<t\> pour cibler également les potentils clients.....Création d'un datamart des données externes qui permettra de compléter des données internes de la banque dans la création de score ou typologie.......\*\* Le datamart est un ensemble de données ciblées, organisées, regroupées et agrégées pour répondre à un besoin spécifique à un métier ou un domaine donné. Il est donc destiné à être interrogé sur un panel de données restreint à son domaine fonctionnel, selon des paramètres qui auront été définis à l'avance lors de sa conception....
+
+[Techniques statistiques :]{.underline} Credit scoring, géomarketing
+
+[Logiciels :]{.underline} Pack office, SAS ( SAS Enterprise Guide, SAS Enterprise Miner)
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline} Typologie de clientèle et score d'appetence pour les clients sociétaires du crédit agricole
+
+[Missions(s) :]{.underline}
+
+-   Production de scores d'appétence
+
+-   Production de typologies de clientèle
+
+-   Analyses descriptives des sujets d'études
+
+-   Rédaction des rapports des études
+
+-   Mise en production industrielle
+
+-   Recherche et développement dans le domaine Big Data
+
+[Techniques statistiques :]{.underline} Clustering
+
+[Logiciels :]{.underline} SAS, R, Python
+
+## **LE CREDIT LYONNAIS (LCL)**
+
+Depuis son rapprochement avec le Groupe Crédit Agricole SA en 2003, le périmètre d'activités de LCL, réseau national de banque de détail, est axé sur le marché des particuliers, des professionnels, des entreprises et la Banque privée.
+
+LCL est une banque de proximité qui compte 2 065 implantations et 20 900 collaborateurs au service de 6 000 000 de clients particuliers, 320 000 clients professionnels et 27 000 clients entreprises et institutionnels.
+
+[Lieu de stage :]{.underline} 2 avenue de Paris, 94811 Villejuif Cedex
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline} Statistiques / Gestion des Risques / Data Sciences
+
+[Missions(s) :]{.underline} Construire de nouveaux algorithmes en testant des techniques innovantes liées à la data science, identifier et aider au pilotage du risque de credit.
+
+[Techniques statistiques :]{.underline} Machine learning
+
+[Logiciels :]{.underline} Python, R, SAS, pack office
+
+## **Oney Bank**
+
+Oney est une filiale d'Auchan Holding, spécialisée dans le crédit à la consommation, la monétique, la gestion des moyens de paiement et la connaissance des clients. Il sert 7,4 millions de clients en Europe et en Asie, dont millions en France. Oney a été créé en 1983 et est aujourd'hui présent dans onze pays (France, Portugal, Espagne, Italie, Pologne, Hongrie, Russie. Roumanie, Ukraine, Malte, Chine). En France, Oney banque regroupe 850 collaborateurs sur ses deux sites : le siège social à Croix et le site à Tours.
+
+[Lieu de stage :]{.underline} 34 Avenue de Flandre, 59 179 Croix
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Bonification du parcours client
+
+[Missions(s) :]{.underline} Optimisation de la segmentation de préqualification client partenaire à des fins marketing/risque (Analyse du comportement clients, simulation des apports opérationnels : amélioration des KPI (Key Performance Indicator) sur le parcours de souscription, ex: la part de client avec un parcours bonifié......Etude de la performance de l'octroi et simulation de l'impact de l'assouplissement des règles d'octroi sur le taux d'acceptation.
+
+[Techniques statistiques :]{.underline} Segmentation, Modélisation statistique
+
+[Logiciels :]{.underline} SAS, Excel
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Analyse de la typologie des clients Oney et détection des niches à risque via une analyse de comportement
+
+[Missions(s) :]{.underline}
+
+-   Création d'indicateurs pouvant expliquer le risque client./L'exploitation de quelques données non utilisées jusqu'à aujourd'hui dans les segmentations effectuées par les membres de l'équipe.
+
+-   Analyse de la typologie des clients à raide des algorithmes de machine learning.
+
+-   Détection des niches risque via une analyse descriptive des clusters construits.
+
+-   Analyse des facteurs expliquant l'impayé du client et création d'un score de risque.
+
+-   Construction d'une vision 3600 pour chaque comportement détecté.
+
+-   Lister les usages possibles de la classification pour permettre aux pôles métiers d'exploiter les résultats obtenus et de les intégrer dans leurs futures stratégies d'octroi ou de confiance client.
+
+[Techniques statistiques :]{.underline} Typologie clients/CRISP-DM/Custering Mixte (K-means,CAH, RLM)
+
+[Logiciels :]{.underline} SAS
+
+## **RCI BANK AND SERVICES**
+
+RCI Banque SA, dont l'identité commerciale est Mobilize Financial Services (ex RCI Bank and Services), est implantée en France et dans 36 pays (principalement en Europe et en Amérique du Sud). Elle s'est développée autour du crédit automobile afin de permettre aux particuliers et aux entreprises d'acheter des véhicules du groupe. Elle distribue aussi d'autres services aux entreprises et aux particuliers, comme l'extension de garantie ou de l'assurance.
+
+[Lieu de stage :]{.underline} 92099 Paris La Défense Cedex
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Assistant Analyste Score
+
+[Mission(s) :]{.underline} Développement des modèles statistiques : Modèles de risque de crédit / Modèles de Datamining Client, CRM, Marketing / Modèles de provisionnement / Garantie de la performance des modèles statistiques en production / Revue régulière de stabilité, performance et prévision de tous les modèles utilisés (Backtesting) et redéveloppement des modèles en cas de backtesting non satisfaisant / Développement d'un score d'octroi de crédit
+
+[Techniques statistiques :]{.underline} Analyse de données / Scoring / Modélisation
+
+[Logiciels :]{.underline} SAS / Excel / Python
+
+[Lieu de stage :]{.underline} 93160 NOISY-LE-GRAND
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Backtesting de la Probabilité de Défaut
+
+[Missions(s) :]{.underline}
+
+-   Analyser des modèles PD (la probabilité de défaut de l'emprunteur) et du processus backtesting existants;
+
+-   Veiller au respect des exigences réglementaires;
+
+-   Développer de nouveaux modules et tests dans le cadre du nouveau backtesting;
+
+-   Réaliser une documentation et une présentation du nouveau backtesting aux membres de l'équipe.
+
+[Techniques statistiques :]{.underline} Régression logistique
+
+[Logiciels :]{.underline} SAS, Excel
+
+## **RCI banque -DIAC**
+
+RCI Banque est une société anonyme à conseil d'administration créée en 1980. En 1990, RCI avec DIAC (Diffusion Industrielle de l'Automobile par le Crédit). Aujourd'hui la DIAC est une filiale détenue à 100 % par RCI Banque et située à Paris. Elle se spécialise dans le secteur bancaire et emploie plus de 3700 salariés. En 2019, la banque a réalisé 2,1 milliards d'euros de chiffre d'affaires. Elle est classée dans la catégorie des grandes entreprises (GE).
+
+[Lieu de stage :]{.underline} 15 rue d'Uzès Paris
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline} Developpement de score marketing, comparaison de methodes de Scoring classiques vs Machine learning
+
+[Missions(s) :]{.underline}
+
+-   Comparaison des méthodes de Scoring classiques vs. Machine Learning avec utilisation potentielle de données externes.
+
+-   Mise à jour occasionnelle des monitoring & backtesting
+
+-   Analyses statistiques ponctuelles.
+
+[Techniques statistiques :]{.underline} Méthode de scoring, Machine learning
+
+[Logiciels :]{.underline} SAS, R
+
+## **Société Générale**
+
+La société générale est un groupe bancaire français dont le siège social se trouve à la Défense à Paris. Elle a été créée en 1864 pour encourager le développement du commerce et de l'industrie en France. Elle est présente dans 67 pays à travers le monde. En 2019, le groupe possédait une réserve en capitaux propres de 63,5 milliards d'euros. La société générale appartient à la catégorie de grande entreprise avec plus de 10 000 salariés.
+
+[Lieu de stage :]{.underline} Paris
+
+**Promotion 2019 : SAS Spring Campus**
+
+[Intitulé du stage :]{.underline} Segmentation analytique des clients CDN pour l'amélioration des alertes LCB-FT
+
+[Missions(s) :]{.underline} Mise en place d'une segmentation analytique(le clustering) des clients du Groupe Crédit Du Nord pour la détection des transactions pouvant relever du Blanchiment d'Argent et le Financement du Terrorisme
+
+[Techniques statistiques :]{.underline} segmentation client, machine learning, clustering
+
+[Logiciels :]{.underline} SAS Guide, SAS Visual Analytics, SAS AML 7.1, Hive,Pyhton, Talend, Apache Oozie, Jira.
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline} Integration du machine learning au sein des solutions de lutte contre la fraude et le blanchissement d'argent
+
+[Missions(s) :]{.underline}
+
+-   Implication dans les alertes générées par les scénarios.
+
+-   Définir, réceptionner les données nécessaires à la création des modèles et en vérifier la qualité.
+
+-   Définir et mettre en œuvre les méthodes d'échantillonnage.
+
+-   Créer les modèles de Machine Learning et documenter les travaux.
+
+-   Soumettre les modèles aux instances de validation et répondre à leurs recommandations.
+
+-   Analyser la performance des modèles.
+
+[Techniques statistiques :]{.underline} Machine learning, Apprentissage supervisé, regression, Random Forest
+
+[Logiciels :]{.underline} SAS

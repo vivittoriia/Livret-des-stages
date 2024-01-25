@@ -1,0 +1,27 @@
+---
+title: "Eau et Assainissement"
+---
+
+## **VEOLIA**
+
+Entreprise centenaire et actuellement leader mondial des services d'eau et d'assainissement, de la gestion des déchets et de l'optimisation des services énergétiques, Veolia conçoit et déploie des solutions intégrées et adaptées aux nouveaux enjeux de ses clients et aux défis des ressources. Le groupe Veolia, référence mondiale en termes de gestion optimisée des ressources, est présent sur les cinq continents avec plus de 163 000 salariés. Au travers de ses trois activités complémentaires que sont la gestion de l'eau, de l'énergie et des déchets, Veolia contribue à développer l'accès aux ressources, à préserver les ressources disponibles et à les renouveler.
+
+Lieu du stage : 291 Avenue Dreyfous Ducas
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Stratégie de localisation des clients pour le ramassage des déchets industriels
+
+[Missions(s) :]{.underline}
+
+-   Étude bibliographique concernant la collecte des déchets industriels
+
+-   Elaboration de l'architecture d'analyse des données massive du fait de la grosse capacité de données
+
+-   Analyse descriptive des données afin d'extraire le maximum d'informations pertinentes /Visualisation graphique des coordonnées GPS
+
+-   Recherche des bonnes stratégies au moyen d'algorithmes pour identifier la localisation des clients à partir des logs GPS des camions de collecte
+
+[Techniques statistiques :]{.underline} Partitionnement des données, K-médoïdes
+
+[Logiciels :]{.underline} R

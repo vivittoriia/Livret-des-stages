@@ -1,0 +1,51 @@
+---
+title: "Administration publique"
+---
+
+## **Communauté d'agglomération du Saint Quentinois**
+
+La communauté d'agglomération du saint-Quentinois communément appelée Agglomération du Saint-Quentinois est une structure intercommunale française composée de 39 communes situées dans le département de l'Aisne en Région Hauts-de-France.
+
+[Lieu du stage :]{.underline} St Quentinois
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} Alimentation de Bdd, référent de cette base avec mise en place d'un observatoire , chargé des études stratégiques de la direction. Veille stratégique, lien avec de nombreus services. Analyser les données note de synthèse, argumenter pour objectif d'aide à la décision.
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} R
+
+## **Conseil Regional Nouvelle Aquitaine**
+
+Le conseil régional de Nouvelle-Aquitaine est l'assemblée délibérante de la région française de Nouvelle Aquitaine. Le conseil régional est composé de 183 conseillers régionaux élus pour 6 ans et est présidé par le socialiste Alain Rousset.
+
+[Lieu de stage :]{.underline} 14 Rue François de Sourdis 33070 Bordeaux Cedex
+
+***Promotion 2020 :***
+
+[Intitulé du stage :]{.underline} Appui aux travaux de suivi des réalisations et de prospective
+
+[Missions(s) :]{.underline} Contribuer à la construction des tableaux de bords, indicateurs .... et à la mise en œuvre de la démarche de pilotage stratégique, au traitement et à l'analyse des données.
+
+[Techniques statistiques *:*]{.underline} Analyse des données, constructions de modèle prospectifs
+
+[Logiciels :]{.underline} R, Python, BO
+
+## **Union départementale des centres communaux d'action sociale de la Seine-Saint-Denis (UDCCAS)**
+
+L'Union Départementale des Centres Communaux d'Action Sociale du département de la Seine Saint Denis (UDCCAS 93) voit le jour en 2003 à Saint Ouen par Bertrand DRUON (Maire Adjoint de Saint Ouen à l'époque). Les Centres Communaux d'Action Sociale (CCAS) naissent des cendres des Bureaux d'aide sociale par la loi n°86-17 du 6 Janvier 1986 à la suite des premières lois de la décentralisation. Les missions de ces organisations ont été fixées par un décret en mai 1995 (modifié en janvier 2000). A cet effet, elles ont sous leur administration la gestion des demandes de revenu de solidarité active, l'instruction des demandes de couverture médicale universelle et la participation aux actions sociales et Medico sociales de coordination
+
+[Lieu de stage :]{.underline} 93380 Pierrefitte-Sur-Seine
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Analyses des Besoins Sociaux Collectives en Seine Saint Denis
+
+[Mission(s) :]{.underline} Collecter des données sur le site de l'INSEE / Nettoyer les données / Calculer des indicateurs / Représentation graphique et cartographique des résultats Interprétation des résultats / Effectuer des entretiens pour la phase qualitative / Rédaction d'un rapport
+
+[Techniques statistiques :]{.underline} Enquêtes / Géomarkéting
+
+[Logiciel]{.underline} : Rstudio / QGIS

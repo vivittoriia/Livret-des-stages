@@ -1,0 +1,81 @@
+---
+title: "Autres"
+---
+
+## **Alchimie Dynamic Digital Distribution**
+
+Alchimie Dynamic Digital Distribution une société par actions simplifiée qui exerce dans la région parisienne à Aubervilliers (93300) depuis 6 ans. Son domaine d'activité est le secteur des activités des sociétés holding. Elle appartient à la catégorie des entreprises de taille intermédiaire.
+
+[Lieu du stage :]{.underline} 45 Avenue Victor Hugo, 93300 Aubervilliers
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Elaboration de tableaux de bord et d'analyses facilitant la gestion et la prise de décision
+
+[Missions(s) :]{.underline} Réaliser une transformation des données ainsi que des évènements bruts de façon plus visuelle pour que cela puisse être compris par les autres services notamment le service marketing.
+
+[Techniques statistiques :]{.underline} Web analytics
+
+[Logiciels :]{.underline} Splunk (c'est un logiciel d'analyse de données via une interface web. Il permet notamment de conprendre et d'analyser les parcours des utilisateurs sur un site web.), SQL et Excel.
+
+## **CENTRE VINICOLE CHAMPAGNE NICOLAS FEUILLATTE (CV-CNF)**
+
+Aujourd'hui, le CV-CNF représente la première union de producteurs de Champagne. Il compte plus de 80 coopératives et une Union des Producteurs Particuliers (UPP-CVCNF) composée de plus 1360 adhérents. Il compte au total près de 5000 vignerons. Sa mission principale 5 aujourd'hui est d'apporter le savoir-faire et une qualité à l'élaboration des vins de Champagne qui assurent une rémunération optimale des apports à ses adhérents et une réputation mondiale.
+
+[Lieu de stage :]{.underline} 51530 CHOUILLY
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Stage gestion et optimisation Data au sein du service des relation vignoble du CV-CNF
+
+[Mission(s) :]{.underline} Automatisation de rapports data vendanges (avant, pendant, après) / Refonte des rapports de pilotage du service et création de nouveaux rapports
+
+[Techniques statistiques :]{.underline} Analyse de données / Cartographie / Tableaux de bords
+
+[Logiciels :]{.underline} JDEdwards / Cognos
+
+## **Daimler AG**
+
+Daimler Mobility AG se focalise sur les solutions financières et de mobilité visant à faciliter la vie quotidienne de ses clients. Les services vont des offres de location, de financement aux services de gestion de flotte, aux assurances et plateformes de paiement électronique. DMO investit également dans des solutions de mobilité basées sur des applications pour covoiturage, la mobilité en tant que service (MaaS) et autres.
+
+[Lieu de stage :]{.underline} 70320 Stuttgart-Allemagne
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Data science
+
+[Mission(s) :]{.underline}
+
+-   Travailler avec les équipes d'experts sur l'amélioration des modèles de classification quantitative des risques, (par exemple le scoring) et d'évaluation avancées utilisant des méthodes d'apprentissage automatique
+
+-   Préparation des données, analyse des données ainsi qu'interprétation et présentation des résultats
+
+-   Participation à des projets internationaux mettant en œuvre des processus et des solutions de décision en matière de crédit numérique
+
+-   Évaluation de l'applicabilité des méthodes avancées du machine learning dans la classification des risques.
+
+[Techniques statistiques :]{.underline} Analyse de données / Scoring/ Classification
+
+[Logiciels :]{.underline} RStudio / Python / SAS / Spark
+
+## **Pari Mutuel Urbain (PMU)**
+
+Le PARI MUTUEL URBAIN est un groupement d'intérêt économique créé en 1930. Installée à Paris, elle est spécialisée dans le secteur d'activité de l'organisation de jeux de hasard et d'argent. Son effectif est compris entre 1000 et 1999 salariés. Sur 2019 elle a réalisé un chiffre d'affaires de 9561 milliards d'euros. Elle appartient à la catégorie entreprise de taille intermédiaire (ETI).
+
+[Lieu du stage :]{.underline} 2 Rue du Professeur Florian Delbarre 75015, Paris
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Optimisation de la monté en gamme des clients
+
+[Missions(s) :]{.underline}
+
+-   Analyse d'opération marketing et statistiques descriptives;
+
+-   Modélisation dans le but de déterminer les facteurs les plus importants pour un up sell avec la plus forte valeur ajoutée;
+
+-   Test d'opération marketing pour valider l'analyse et la modélisation en vue
+
+[Techniques statistiques :]{.underline} Segmentation, K-mens, Régression logistique
+
+[Logiciels :]{.underline} SAS, Excel, Powerpoint

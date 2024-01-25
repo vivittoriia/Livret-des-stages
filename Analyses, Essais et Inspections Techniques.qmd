@@ -1,0 +1,29 @@
+---
+title: "Analyses, Essais et Inspections Techniques"
+---
+
+## ATMO
+
+ATMO Grand Est a été créé en 2016 à la suite de la fusion des AASQA (Association Agrée de Surveillance de la Qualité de l'Air) d'Alsace, de Champagne-Ardenne et de Lorraine. Elle est une association agrée par le ministère de la transition écologique, qui surveille la qualité de l'air selon une approche transversale air-climat-énergie-santé, dont les principales missions répondent aux règles relatives à la Loi sur l'Air et l'Utilisation Rationnelle de l'Energie (Loi LAURE) du 30 décembre 1996. Cette approche résulte de l'interdépendance entre les quatre enjeux air, climat, énergie, et santé, dont l'un impact les autres, par exemple plus on consomme/ produit de l'énergie
+
+**Promotion 2022 :**
+
+[Lieu de stage :]{.underline} 9 Rue Marie Marvingt, 51100 Reims
+
+[Intitulé du stage :]{.underline} Exploitation de données satellitaires
+
+[Missions(s) :]{.underline} Etudier les données MERRA2, données mises à disposition par la NASA concernant les particules fines. Le but était de les exploiter pour établir un lien entre les données satellitaires et les mesures au sol qui s'expriment dans des grandeurs physiques différentes.
+
+[Techniques statistiques :]{.underline} Machine learning
+
+[Logiciels :]{.underline}R studio / Python / (Qgis)
+
+**Promotion 2021 :**
+
+[Lieu de stage :]{.underline} 67300 Schiltigheim
+
+[Intitulé du stage :]{.underline} Modélisation et prévision de la qualité de l\'air dans la région Grand Est
+
+[Mission(s) :]{.underline} Comprendre le fonctionnement du modèle de dispersion et prendre en main les jeux de données associés / Réaliser une recherche bibliographique sur l\'état de l\'art des techniques de corrections statistiques / Développer une correction statistique performante des données brutes / Valider la méthodologie statistique en s\'appuyant sur des scores (biais, corrélations...) / Tester la sensibilité du post-traitement et affiner sa paramétrisation.
+
+[Techniques statistiques :]{.underline} Prédiction / Modélisation / Analyse de données / Scoring Logiciels utilisés : RStudio / Python / QGIS

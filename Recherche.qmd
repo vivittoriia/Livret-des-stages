@@ -1,0 +1,207 @@
+---
+title: "Recherche"
+---
+
+## **BRGM**
+
+Le bureau de recherches géologiques et minières (BRGM) est un établissement public à caractère industriel et commercial (Epic) placé sous la tutelle du Ministère de l'Éducation Nationale, de l'Enseignement Supérieur et de la Recherche (MENESR), du Ministère de la Transition Ecologique et Solidaire (MTES) et du Ministère de l'Économie, de l'Industrie et du Numérique (MEIN). Il est l'établissement public de référence dans les applications des sciences de la Terre, pour gérer les ressources ct ICS risques du sol Ct du sous-sol. Le BRGM emploie plus de 1000 personnes dont plus de 700 chercheurs et ingénieurs (géologues, géotechniciens, hydrogéologues, géochimistes, modélisateurs, géophysiciens, informaticiens, ...), dans ses 29 implantations en France métropolitaine et en Outre-mer. Ses équipes interviennent dans une trentaine de pays.
+
+[Lieu du stage :]{.underline} 3 Avenue Claude Guillemin, 45100 Orléans
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Utilisation des technique du Big Data pour rendre accessible les données de qualité de l'eau au robinet
+
+[Missions(s) :]{.underline} Le stage s'est déroulé suivant les étapes ci-après : /Etape I : Analyse des données de qualité de l'eau \_potable, de leur variabilité. /Etape 2 : Analyse des solutions pour aspirer ces données, et développement de la solution technique permettant de les récupérer. /Etape 3 : Définition des blocs hadoop de transformation, d'enrichissement et d'analyse, pour déploiement de ceux-ci dans la plateforme hubeau. /Etape 4 : Co-construction des paramètres de l'API, en s'appuyant sur les ré-utilisateurs connus sur les données eau potable. /Etape 5 : Test de l'API, une fois mise en œuvre, et analyse des données correspondantes. /Etape 6 : Créations d'outils d'aide à l'emploi de l'API
+
+[Techniques statistiques :]{.underline} HDFS, NoSQL, Webscraping,
+
+[Logiciels :]{.underline} Excel, HIVE, JDBC, Hadoop,Spark
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline} Prédictibilité du phénomène sismique
+
+[Missions(s) :]{.underline}
+
+-   Initier une base de données d'apprentissage robuste, réunissant des enregistrements sismiques (larges bandes et/ou accéléromètriques), accompagnés de nombreuses métadonnées, issus de différentes bases de données internationales (e.g. K-NET and KiK-net, PEER, ESM, etc.).
+
+-   Réaliser le code qui permet de transformer ces ensembles de données en un problème abordable par des méthodes de data science (feature engineering), notamment dans un cadre d'apprentissage automatique supervisé. Tester plusieurs approches d'apprentissage artificiel (e.g "random forest", "xgboost", "SVM", "deep learning"...) sur certaines statistiques du signal sismique, établies sur une fenêtre de temps glissante, comme caractéristiques descriptives. La sélection des données d'entrée, des caractéristiques descriptives, de la taille de la fenêtre de temps et des méta-paramètres des algorithmes de machine learning sont autant de variables du problème à déterminer.
+
+-   Réaliser le code permettant la comparaison minutieuse des résultats à travers une campagne de tests systématiques. Les données étant potentiellement très volumineuses, le test intensif et systématique de nombreux modèles engendrera probablement un problème de temps de calcul. Le cas échéant, nous projetons de prendre en compte cette difficulté en intégrant et adaptant les algorithmes d'apprentissage à un cadre de calculs distribués, comme celui proposé par l'environnement Big Data du BRGM
+
+[Techniques statistiques :]{.underline} Machine learning Apprentissage supervisé
+
+[Logiciels :]{.underline}
+
+## **Centre de Calcul Régional ROMEO (Université de Reims Champagne Ardenne)**
+
+Le Centre de Calcul Régional ROMEO est une plateforme technologique de l'Université de Reims Champagne-Ardenne depuis 2002. Sa mission est de fournir aux industriels et chercheurs de la région des ressources de calcul performantes, des espaces de stockage sécurisés, des logiciels adaptés, un accompagnement dans l'utilisation de ces outils ainsi qu'une expertise sur des domaines scientifiques et techniques avancé
+
+[Lieu de stage:]{.underline}51100 Reims
+
+**Promotion 2021 :**
+
+*Stage 1 :*
+
+[Intitulé du stage:]{.underline}
+
+[Mission(s):]{.underline} Enedis et le Grand-Reims ont mis en place une plateforme de supervision de la consommation d'énergie des 270 points de livraisons de la ville de Reims, sous forme de tableau de bord que les experts peuvent interroger. Il faut installer l'outil dans l'infrastructure de Cloud ROMEO et de l'adapter pour permettre son passage à l'échelle. Si l'on vise dans un premier temps l'ensemble des points de livraison de la ville de Reims (400), on peut rapidement se projeter sur le périmètre du Grand Reims (143 communes) et d'autres communautés urbaines. In-fine, on souhaite créer une plateforme ouverte opérée par ROMEO, où un client (le GrandReims), pourra donner accès à ses données de consommation.
+
+[Techniques statiques:]{.underline}Modélisation / Deeplearning
+
+[Logiciels utilisés:]{.underline}
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline} Data Science, Machine Learning, Deep Learning
+
+[Mission(s) :]{.underline} Développement d'un use-case sur les données de consommation de la ville de Reims : détection de l'occupation des bâtiments et d'anomalies par méthodes de clustering (K-means, MLlib, ..) / Définition d'une API pour la création d'une plateforme pour permettre l'accès aux données et la mise au point de modèles Deep Learning-Machine Learning dans des conditions de production. / Expérimentation de cette API par les use-case identifiés.
+
+[Techniques statistiques :]{.underline} Analyse de données / Deep learning / Tableaux de bord
+
+[Logiciels :]{.underline} Python, Excel, MongoDB, NoSQL
+
+[Lieu de stage :]{.underline} 51100 Reims
+
+## **Centre de recherche en STIC (CReSTIC) / Binus university**
+
+-   Le Centre de recherche en STIC est une unité de recherche de l'Université de Reims Champagne-Ardenne, issue de la fusion en 2004 du LAM et du LERI. Celui-ci est composé de deux départements, "informatique" et "traitement automatique du signal", et de neuf équipes de recherche. Le CReSTIC se situe sur 4 sites, qui sont Reims, Troyes, Châlons-en-Champagne, et Charleville-Mézières. L'unité est composée d'environ 120 personnes, dont plus de 70 enseignants chercheurs.
+
+-   Bina Nusantara, fond´e en 1996 par Mr. Joseph Wibowo Hadipoespito et Dr. Theresia Widia Soerjaningsih, est un organisme d'education privé situé en Indonésie. Cet organisme est décomposé en trois branches principales : • Binus School, pour les jeunes étudiants non-diplomés • Binus Higher Education Systems, contenant toute la partie des étudiants diplômés, allant de la licence, jusqu'au doctorat. • Binus Enterprises, comportant les organismes hors académique, tel que Binus Square, qui est une résidence étudiante.
+
+[Lieu du stage :]{.underline} Champs-sur-Marne
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline} Sarcasm detection in Twitter
+
+[Missions(s) :]{.underline} Utiliser des données de type texte afin de détecter si une phrase est sarcastique ou non.
+
+[Techniques statistiques :]{.underline} Deep learning
+
+[Logiciels :]{.underline} python
+
+## CNRS Délégation Centre-Est
+
+L'URCA est composée de plusieurs unités de formation et de recherche (UFR) comme l'UFR de Médecine, l'UFR de Sciences économiques, l'UFR de Sociales et de Gestion, l'UFR de Sciences exactes et naturelles (SEN) et bien d'autres. L'UFR SEN comprend plusieurs disciplines dont celles de l'informatique, de la physique, de la biologie ou encore des mathématiques. Ces disciplines ont chacune un ou plusieurs laboratoires affiliés ; par exemple, l'UFR SEN comprend 11 laboratoires de recherches, dont celui de mathématiques.
+
+[Lieu de stage :]{.underline} 54519 VANDOEUVRE
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} Modélisation et prévisions des flux de patients dans les services d'urgences
+
+[Mission(s) :]{.underline} L'objectif est de développer des outils statistiques de prévisions des flux de patients dans les Services Administratifs d'Urgence (SAU) de la région Grand Est. À partir d'un historique de données du nombre d'arrivées de patients dans les SU, la/le stagiaire devra mener une analyse statistique complète de ces données allant du prétraitement à la construction de modèles de séries temporelles prédictifs
+
+[Techniques statistiques :]{.underline} Analyse de données / Modélisation /Prédiction / Tableaux de bord
+
+[Logiciels :]{.underline} RStudio
+
+## **Institut de Recherche bio-Médicale et d'Épidémiologie du Sport**
+
+Depuis 1975 l'INSEP existe tel qu'il est aujourd'hui, ayant pour mission de participer « à la recherche scientifique fondamentale et appliquée en matière pédagogique, médicale et technique; à la formation continue de niveau supérieur des personnels enseignants d'éducation physique et sportive, des conseillers techniques et des éducateurs sportifs ainsi que des personnels des services de la jeunesse et des sports; à l'entraînement des équipes nationales ainsi qu'à la promotion des sportifs de haut niveau »
+
+[Lieu du stage :]{.underline} 11 avenue de Tremblay -- 75012 Paris
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline} ESTIMATION DU RISQUE DE BLESSURE ET CRÉATION D'UN INDICATEUR DE DENSITÉ DES CHARGES D'ENTRAINEMENT AU RUGBY
+
+[Missions(s) :]{.underline} Préparation des jeux de données issus de différentes sources (Questionnaire du matin, données de tests physique, données GPS d'entrainement et de matchs, blessures...), l'exploration et statistique descriptive, la création d'un indicateur de densité d'entrainement à partir des données GPS, la mise en place de modèles d'estimation de risques de blessures et la rédaction d'un article scientifique inhérent aux taches précédentes
+
+[Techniques statistiques :]{.underline} Visualisation des données
+
+[Logiciels :]{.underline} R
+
+## **Laboratoire de Mathématiques de Reims**
+
+Le Laboratoire de Mathématiques de Reims (LMR), créé en 1992, est aujourd'hui dirigé par Michael Pevzner. Les thématiques de recherches abordées sont très larges, « allant de la théorie des nombres et théorie des représentations à la modélisation numérique et stochastique en passant par l'analyse des EDP, la théorie spectrale et les probabilités ». Le laboratoire se compose de 3 équipes de recherche : « Analyse », « Groupes et Quantification » et enfin « Modélisation Numérique et Stochastique », dont je fais partie. Au total on compte 49 personnes appartenant au laboratoire, ce qui comprend entre autres les enseignants-chercheurs, les doctorants, les ingénieurs de recherche et le personnel administratif.
+
+[Lieu du stage :]{.underline} Champs-sur-Marne
+
+**Promotion 2022 :**
+
+[Intitulé du stage :]{.underline} analyser les données volumétriques cérébrales des nouveau-nés prématurés
+
+[Missions(s) :]{.underline} Analyser les données volumétriques cérébrales des nouveau-nés prématurés. Mettre en place un score et une représentation graphique simple permettant d'aider à la validation des segmentations par les cliniciens.
+
+[Techniques statistiques :]{.underline} Modélisation statistique / Analyse des données
+
+[Logiciels :]{.underline} R/Latex
+
+## **Lab'URBA Université Paris-Est**
+
+Le Lab'URBA se définit principalement par son inscription dans l'Ecole d'Urbanisme de Paris issue de la fusion des deux principaux instituts d'urbanisme français.
+
+Le périmètre du Lab'URBA associe également des enseignants-chercheurs partageant ses valeurs et travaillant sur les questions urbaines, notamment au sein du département de géographie de l'Université Paris Est Créteil (UPEC), du département Génie Urbain de l'Université Gustave Eiffel (anciennement Université Paris-Est Marne-la-Vallée) et de l'Ecole des ingénieurs de la Ville de Paris (EIVP).
+
+Ces instituts et départements trouvent leur raison d'être dans une forte association entre une formation qui suit les évolutions de ses mondes professionnelles de référence, en France et dans le monde, et contribue à cette évolution par la production de connaissances, la mise en œuvre de ces connaissances dans des activités d'expertise et un rôle d'animation dans le débat public sur les choix sociaux qui concernent la production, la gestion et l'usage des villes.
+
+[Lieu du stage :]{.underline} Champs-sur-Marne
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} réalisation d'une enquete visant à identifier une typologie des touristes susceptibles de venir aux JO et Paralympiques de Paris 2024
+
+[Missions(s) :]{.underline} Réaliser une enquête visant à identifier les pratiques et la mobilité des touristes qui viennent à Paris et en Ile-de-France
+
+[Techniques statistiques :]{.underline} Echantillonnage, analyse de données
+
+[Logiciels :]{.underline} R
+
+## **NEOMA Business School**
+
+NEOMA BS est une école qui propose des formatioins dans l'ensemble des disciplines de sciences de gestion: marketing, gestion, finance,droit, commerce. Elle offre des formations allant du bac+3 au bac+5 dans le domaine du management, du commerce et de l'entreprise et met la recherche au centre de ses activités afin de sans cesse innover et s'adapter à toutes les problématiques nouvelles.
+
+[Lieu du stage :]{.underline} Reims
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Panorama technologique des micro-algues: identification des acteurs du champ technologique des micro-algues et leurs positionnements
+
+[Missions(s) :]{.underline} Identification des acteurs scientifiques et techonologiques du domaine des micro-algues respectivement à partir de l'activité de publication et de l'activité de dépôt de brevets
+
+[Techniques statistiques :]{.underline} Bibliométrie, Analyse de systèmes complexes
+
+[Logiciels :]{.underline} SQL, R, Gephi
+
+## **Université de Paris, MAP5 (CNRS UMR 8145)**
+
+Le MAP5 est rattaché à Université de Paris (ex Université Paris Descartes) et à l'Institut National des Sciences Mathématiques et de leurs Interactions (INSMI) du CNRS. Il fait partie de la Fondation Sciences Mathématiques de Paris (FSMP).
+
+Le MAP5 est un laboratoire récent créé sous sa forme présente en 2004. Il a pris la suite d'équipes principalement tournées vers les applications de la statistique au domaine biomédical et vers l'image. Son effectif est passé de 28 permanents en 2005 à une cinquantaine aujourd'hui. Une des ambitions du laboratoire est d'établir à Université de Paris un excellent niveau de recherche en mathématiques appliquées, tout en développant des liens avec les autres composantes de l'université. Le MAP5 est composé de 4 équipes, travaillant chacune dans un domaine particulier des mathématiques appliquées : les statistiques, les probabilités, l'analyse numérique et le traitement des images. Il rassemble une variété d'expertises et de compétences assez large pour créer une vraie synergie entre les développements théoriques et les applications.
+
+[Lieu du stage :]{.underline} 85 Bd Saint Germain, 75006 Paris
+
+**Promotion 2010 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} modelisation, developpement , entrainement et implementation d'un reseaux de neurones
+
+[Techniques statistiques :]{.underline} modélisation statistique, machine learning
+
+[Logiciels :]{.underline} R, matlab, python, tensorflow, keras
+
+## **UPEM (Université Paris-Est-Marne-la-vallée)**
+
+La multiplicité des phénomènes urbains pose de nouveaux défis qui ne peuvent être résolus qu'en appliquant une approche pluridisciplinaire. Des moyens importants sont mis en œuvre pour donner une envergure internationale aux projets de recherche des laboratoires compétents dans ce domaine. Le LabEx (Laboratoire d'Excellence) Futurs Urbains a été créé en 2011, suite à un appel d'offre des investissements d'avenir ; 3000 projets pour une enveloppe de 47 Milliards d'Euros. L'idée étant de mettre en commun les compétences de chercheurs issus de milieu professionnels différents, tels que l'urbanisme, l'architecture, l'environnement, l'énergie, etc. On est alors en mesure d'obtenir une vision plus précise des interactions en environnement urbain ; des gens entre eux, ou avec les infrastructures par exemple, ou encore l'impact de l'interdiction des vieilles voitures en centre-ville.
+
+[Lieu du stage :]{.underline} 5 Boulevard Descartes, 77420 Champs-sur-Marne
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Mise en perspective des données d'enquête et des données issues des terminaux mobiles : cas du marché de noel des Champs-Elysées 2016-2016
+
+[Missions(s) :]{.underline}
+
+-   Réaliser une étude comparative des données
+
+-   Réaliser une carte graphique permettant de visualiser la provenance des touristes français et étrangers
+
+-   Compléter l'analyse qui a été produite l'année précédente
+
+[Techniques statistiques :]{.underline} Data visualisation, Régression linaire
+
+[Logiciels :]{.underline} R, Excel

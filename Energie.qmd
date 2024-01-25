@@ -1,0 +1,205 @@
+---
+title: "Energie"
+---
+
+## **ATMO**
+
+ATMO Grand Est a été créé en 2016 à la suite de la fusion des AASQA (Association Agrée de Surveillance de la Qualité de l'Air) d'Alsace, de Champagne-Ardenne et de Lorraine. Elle est une association agrée par le ministère de la transition écologique, qui surveille la qualité de l'air selon une approche transversale air-climat-énergie-santé, dont les principales missions répondent aux règles relatives à la Loi sur l'Air et l'Utilisation Rationnelle de l'Energie (Loi LAURE) du 30 décembre 1996. Cette approche résulte de l'interdépendance entre les quatre enjeux air, climat, énergie, et santé, dont l'un impact les autres, par exemple plus on consomme/ produit de l'énergie
+
+**Promotion 2022 :**
+
+[Lieu de stage :]{.underline} 9 Rue Marie Marvingt, 51100 Reims
+
+[Intitulé du stage :]{.underline} Exploitation de données satellitaires
+
+[Missions(s) :]{.underline} Etudier les données MERRA2, données mises à disposition par la NASA concernant les particules fines. Le but était de les exploiter pour établir un lien entre les données satellitaires et les mesures au sol qui s'expriment dans des grandeurs physiques différentes.
+
+[Techniques statistiques :]{.underline} Machine learning
+
+[Logiciels :]{.underline}R studio / Python / (Qgis)
+
+**Promotion 2021 :**
+
+[Lieu de stage :]{.underline} 67300 Schiltigheim
+
+[Intitulé du stage :]{.underline} Modélisation et prévision de la qualité de l'air dans la région Grand Est
+
+[Mission(s) :]{.underline} Comprendre le fonctionnement du modèle de dispersion et prendre en main les jeux de données associés / Réaliser une recherche bibliographique sur l'état de l'art des techniques de corrections statistiques / Développer une correction statistique performante des données brutes / Valider la méthodologie statistique en s'appuyant sur des scores (biais, corrélations...) / Tester la sensibilité du post-traitement et affiner sa paramétrisation.
+
+[Techniques statistiques :]{.underline} Prédiction / Modélisation / Analyse de données / Scoring
+
+Logiciels : RStudio / Python / QGIS
+
+## **Akuo Energy SAS**
+
+[Lieu du stage :]{.underline} 140 Avenue des Champs Elysées 75008 PARIS
+
+**Promotion 2020 :**
+
+[Intitulé du stage :]{.underline} Wind Performance Analysis
+
+[Missions(s) :]{.underline}
+
+-   récupération des données de supervision des éoliennes via API de Bazefield
+
+-   analyse de l'intégrité de ces données
+
+-   création d'alertes et de rapports quotidiens sur la performance des parcs éoliens
+
+-   développement de modèles pour piloter la maintenance prédictive du groupe
+
+-   présentation des résultats à une équipe internationaleéventive et corrective)/gestion de projet international
+
+[Techniques statistiques :]{.underline} analyses statistiques sur des séries temporelles/algorithmes de machine learning (classification, regression, clustering, forecasting)/connaissance détaillée du fonctionnement d'une éolienne/compréhension des différentes stratégies de maintenance (préventive et corrective)/gestion de projet international
+
+[Logiciels :]{.underline} Windows 10/SQL Server/Python/Jupyter NoteBooks (ou autre)/Bazefield (logiciel de supervision)
+
+## **EDF**
+
+En activité depuis plus de 65 l'Electricité de France (EDF) est localisée à Paris (siège social). Son activité principale est la production de l'électricité. EDF emploie plus de 10 000 salariés, elle se classe parmi la catégorie des grandes entreprises. Sur l'année 2019 son chiffre d'affaires réalisé est de 46 155 000 000 euros.
+
+[Lieu de stage :]{.underline} 33700 MERIGNAC
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Data science pour la maintenance du réseau de distribution HTA souterrain
+
+[Mission(s) :]{.underline} Etablir un modèle fiable et rigoureux qui permettra de déterminer les départs du réseau souterrain à risque de tomber en panne afin de prioriser les renouvellements préventifs. Plus précisément, estimer la probabilité de défaillance d'un départ l'année suivante en fonction des contraintes météorologiques et de l'historique de pannes subies.
+
+[Techniques statistiques :]{.underline} Cross-validation , SVM, arbre de décision , KNN , règression logistique et ACP.
+
+[Logiciels :]{.underline} Python
+
+## **ENEDIS**
+
+Anciennement appelé ERDF (Electricité Réseau Distribution France), Enedis est une entreprise de service public. Elle est une filiale d'EDF (Electricité de France) et est spécialisée dans le secteur d'activité de la distribution d'électricité. Elle s'occupe de la gestion, de l'exploitation et la modernisation du réseau électrique en France métropolitaine et continentale. Enedis contribue activement à accompagner les territoires dans leur dynamique de transition énergétique et la production d'énergie renouvelable. Le dépannage 24h/24h, le relevé des compteurs, les raccordements des clients et toutes interventions techniques représentent le quotidien des salariés d'Enedis.
+
+[Lieu de stage :]{.underline} 33700 MERIGNAC
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline} développement d'application sous Power BI
+
+[Mission(s) :]{.underline} Le stagiaire devra s'approprier une ou plusieurs applications développées sous Qlickview pour les développer sous Poser BI, notre nouvel outil de data visualisation tout en optimisant la mise à disposition des données.
+
+[Techniques statistiques :]{.underline} Transformation de la donnée / Tableaux de bord
+
+[Logiciels :]{.underline} Power BI, Office
+
+## **ENGIE SA**
+
+Engie est un groupe industriel énergétique français dont l'activité principale est le commerce de combustibles gazeux par conduites. L'Etat français est son actionnaire majeur, qui détient un quart de son capital. Le groupe est issu de la fusion de Gaz de France et Suez en 2008. Son siège social se trouve à la Défense et compte entre 2000 et 4999 salariés. Son chiffre d'affaires en 2019 s'élève à 17 282 000 000 euros. Elle appartient à la catégorie des grandes entreprises.
+
+[Lieu du stage :]{.underline} 1, place Samuel Champlain 92 La Défense
+
+**Promotion 2021 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+-   Analyse de sentiment sur des données issues du web
+
+-   Mise en valeur par la visualisation des résultats d'analyse et automatisation des reportings
+
+-   Analyse de datasets pour fiabiliser le catalog de données en cours de réalisation
+
+-   Participation à des projets data en ML, NLP ou autres suivant les besoins
+
+[Techniques statistiques :]{.underline} Analyse de données structurées et non structurées
+
+[Logiciels :]{.underline} SQL, Python, Jupyter Notebooks, AWS S3 Platform,PowerBI
+
+**Promotion 2019 :**
+
+[Lieu du stage :]{.underline} Paris / Paleseau
+
+[Intitulé du stage :]{.underline} Data science pour la maintenance du réseau de distribution HTA souterrain
+
+[Missions(s) :]{.underline} Etablir un modèle fiable et rigoureux qui permettra de déterminer les départs du réseau souterrain à risque de tomber en panne afin de prioriser les renouvellements préventifs. Plus précisément, estimer la probabilité de défaillance d'un départ l'année suivante en fonction des contraintes météorologiques et de l'historique de pannes subies.
+
+[Techniques statistiques :]{.underline} Cross-validation ( il s'agit d'une méthode d'estimation de fiabilité d'un modèle fondé sur une technique d'échantillonnage : par exemple "tests et validation", "k-fold cross-validation" et "leave-one-out cross-validation), SVM( le modèle SVM est un puissant discriminant. Il est souvent utilisé lorsque l'on veut affecter des individus à une classe donnée. Le principe de l'algorithme se base sur la recherche du meilleur hyperplan qui pourra séparer au mieux les données et maximiser la distance entre les classes.), arbre de décision (qui est une famille de modèles non paramètriques supervisés.), KNN ( ce modèle permet de classer les individus selon les k plus proche voisins.), règression logistique et ACP.
+
+[Logiciels :]{.underline} Python
+
+## **Kayrros**
+
+Kayrros est la principale société de géo-analyse avancée de l'énergie et de l'environnement qui aide les commerçants, les investisseurs, les opérateurs et les gouvernements à prendre de meilleures décisions. Kayrros tire de la valeur de l'intégration de données alternatives et de marché dans des solutions uniques et des offres de produits spécifiques aux clients tout en mesurant l'impact environnemental et en fournissant un aperçu des risques liés au climat et à la transition énergétique.
+
+[Lieu du stage :]{.underline} Paris
+
+**Promotion 2019 :**
+
+[Intitulé du stage :]{.underline} Détection de changement en imagerie radar
+
+[Missions(s) :]{.underline} La mission est de réaliser la détection de la phase de fracturation hydraulique dans la chaine d'exploitation du pétrole et notamment du passage des camions, nécessaires à la réalisation de cette phase
+
+[Techniques statistiques :]{.underline} Séries temporelles
+
+[Logiciels :]{.underline} Python
+
+## **PETROSEN TRADING & SERVICES**
+
+PETROSEN est la société des pétroles du Sénégal qui est majoritairement détenue par l'Etat sénégalais (99%). Créée en mai 1981, elle est sous l'autorité du ministère du Pétrole et des Énergies. La société s'occupe de la recherche et l'exploitation des hydrocarbures du sous-sol, mais aussi du raffinage jusqu'à la commercialisation. Elle a pour objectif de rendre le pays autonome en hydrocarbures et de sécuriser son approvisionnement.
+
+[Lieu du stage :]{.underline} 104 Sotrac Mermoz, Route de Ouakam, Dakar, Sénégal
+
+[Intitulé du stage :]{.underline} Budgeting, planning et veille stratégique dans l'aval pétrolier
+
+[Missions(s) :]{.underline} budgetting, valorisation et analyse des prospects pour informer la prise de decision , veille stratétique
+
+[Techniques statistiques :]{.underline} valorisation des actifs
+
+[Logiciels :]{.underline} MS365, ERP
+
+## **VEOLIA**
+
+Entreprise centenaire et actuellement leader mondial des services d'eau et d'assainissement, de la gestion des déchets et de l'optimisation des services énergétiques, Veolia conçoit et déploie des solutions intégrées et adaptées aux nouveaux enjeux de ses clients et aux défis des ressources. Le groupe Veolia, référence mondiale en termes de gestion optimisée des ressources, est présent sur les cinq continents avec plus de 163 000 salariés. Au travers de ses trois activités complémentaires que sont la gestion de l'eau, de l'énergie et des déchets, Veolia contribue à développer l'accès aux ressources, à préserver les ressources disponibles et à les renouveler.
+
+Lieu du stage : 291 Avenue Dreyfous Ducas
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline} Stratégie de localisation des clients pour le ramassage des déchets industriels
+
+[Missions(s) :]{.underline}
+
+-   Étude bibliographique concernant la collecte des déchets industriels
+
+-   Elaboration de l'architecture d'analyse des données massive du fait de la grosse capacité de données
+
+-   Analyse descriptive des données afin d'extraire le maximum d'informations pertinentes /Visualisation graphique des coordonnées GPS
+
+-   Recherche des bonnes stratégies au moyen d'algorithmes pour identifier la localisation des clients à partir des logs GPS des camions de collecte
+
+[Techniques statistiques :]{.underline} Partitionnement des données, K-médoïdes
+
+[Logiciels :]{.underline} R
+
+## **Voltalis**
+
+Voltalis est une entreprise privée créée en 2006 spécialisée dans la flexibilité électrique. Sa mission principale consiste en l'ajustement en temps réel des flux d'électricité afin de répondre au besoin d'équilibre électrique selon la règle : production=consommation. En d'autres termes, c'est la capacité d'un site électrique à faire des économies d'énergie selon la demande.
+
+[Lieu de stage :]{.underline}75008 Paris
+
+**Promotion 2021 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline}Pilotage budgétaire de la consommation électrique par prévision court et moyen terme
+
+[Missions(s) :]{.underline}le stagiaire et son encadrant détermineront au sein de cycles de 3 semaines des objectifs intermédiaires pour former un programme de travail concerté. Au sein de chacun de ces cycles, les résultats des analyses menées par le stagiaire (extraction BDD, traitement des données, analyses, modélisation, algo, mise en place de POC, etc.) devront permettre d'alimenter la réflexion et amener à déterminer les objectifs du cycle suivant. Le stagiaire est un membre à part entière de l'équipe et participe donc à ses rituels périodiques (principalement journalier, hebdo et 1 fois par cycle de 3 semaines).
+
+[Techniques statistiques :]{.underline}Modélisation / Prédiction
+
+[Logiciels :]{.underline}R Studio, Python
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline} Désagrégation du signal de consommation électrique des logements
+
+Mission(s) : analyse des courbes de charge, estimation des postes de consommations électriques, analyse des variables explicatives de la consommation comme les variables météo ou les caractéristiques du logement, satisfaction adhérent, pragmatisme, compromis théorie/pratique
+
+[Techniques statistiques :]{.underline} Analyse de données / Modélisation / Tableaux de bords
+
+[Logiciels :]{.underline} RStudio / Python
