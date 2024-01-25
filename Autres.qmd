@@ -18,6 +18,23 @@ Alchimie Dynamic Digital Distribution une société par actions simplifiée qui 
 
 [Logiciels :]{.underline} Splunk (c'est un logiciel d'analyse de données via une interface web. Il permet notamment de conprendre et d'analyser les parcours des utilisateurs sur un site web.), SQL et Excel.
 
+## **Artifeel**
+
+En janvier 2021, Artifeel a vu le jour grâce à la collaboration de deux ingénieurs : Alain STARON et Mikael BALPE. Tous deux sont animés par la volonté de révolutionner le domaine du smart-home en commençant par le marché des systèmes de sécurité.
+
+[Lieu du stage :]{.underline} PARIS 08EME
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Modèles de traitement de signal et d'IA
+
+[Missions(s) :]{.underline} Creer un algorithme de détection de chocs qui doit fonctionner pour tous les capteurs déployés avec précision.
+
+[Techniques statistiques :]{.underline} ML
+
+[Logiciels :]{.underline} Notion, Slack, Microsoft Teams, Microsoft Azure Machine Learning, GitHub, Visual Studio Code et Kiwi HR.
+
+
 ## **CENTRE VINICOLE CHAMPAGNE NICOLAS FEUILLATTE (CV-CNF)**
 
 Aujourd'hui, le CV-CNF représente la première union de producteurs de Champagne. Il compte plus de 80 coopératives et une Union des Producteurs Particuliers (UPP-CVCNF) composée de plus 1360 adhérents. Il compte au total près de 5000 vignerons. Sa mission principale 5 aujourd'hui est d'apporter le savoir-faire et une qualité à l'élaboration des vins de Champagne qui assurent une rémunération optimale des apports à ses adhérents et une réputation mondiale.

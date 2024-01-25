@@ -8,6 +8,58 @@ SAS Institute est une multinationale américaine spécialisée dans les logiciel
 
 [Lieu du stage :]{.underline} Domaine de Grégy- Grégy sur Yerres- 77257 BRIE COMTE ROBERT CEDEX
 
+**Promotion 2023 :**
+
+*Stage 1 :*
+
+[Intitulé du stage :]{.underline} Building demos : From concept to showcase
+
+[Missions(s) :]{.underline} Démonstration DAC7, PoC pour le Service d'Investigation du Ministère des Finances de la Géorgie
+
+[Techniques statistiques :]{.underline} Mapping / Classification / Machine learning
+
+[Logiciels :]{.underline} SAS
+
+*Stage 2 :*
+
+[Intitulé du stage :]{.underline} La lutte contre les crimes financiers
+
+[Missions(s) :]{.underline} Présenter les solutions proposées en participant à des ateliers clients et aux rendez-vous commerciaux.
+
+[Techniques statistiques :]{.underline} Data Viz / ML
+
+[Logiciels :]{.underline} SAS
+
+*Stage 3 :*
+
+[Intitulé du stage :]{.underline} Avant-vente Fraude EMEA
+
+[Missions(s) :]{.underline} La détection de fraudes aux appels d'offr/e
+
+[Techniques statistiques :]{.underline} Data Viz / ML
+
+[Logiciels :]{.underline} SAS
+
+*Stage 4 :*
+
+[Intitulé du stage :]{.underline} AI Innovation in Fraud, incl. Automated Rule Generation supported by Machine Learning
+
+[Missions(s) :]{.underline} La possibilité de générer des règles de décision pour l'identification de fraudes en s'appuyant sur des modèles de machine learning.
+
+[Techniques statistiques :]{.underline} ML
+
+[Logiciels :]{.underline} SAS
+
+*Stage 5 :*
+
+[Intitulé du stage :]{.underline} BI
+
+[Missions(s) :]{.underline}
+
+[Techniques statistiques :]{.underline} BI / ML
+
+[Logiciels :]{.underline} SAS
+
 **Promotion 2021 :**
 
 *Stage 1 :*
@@ -191,3 +243,17 @@ SAS Institute est une multinationale américaine spécialisée dans les logiciel
 [Techniques statistiques :]{.underline}
 
 [Logiciels :]{.underline} SAS Visual Analytics, SAS Enterprise Guide, SAS Viya et Base, Forecast Studio, Visual Investigator
+
+## **DIGEIZ**
+
+[Lieu de stage :]{.underline} BOULOGNE-BILLANCOURT
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline}
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline}

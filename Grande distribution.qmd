@@ -41,3 +41,20 @@ Auchan est une enseigne de grande distribution faisant partie de l'Association f
 [Techniques statistiques :]{.underline} Visualisation des données
 
 [Logiciels :]{.underline} Python / stramlit
+
+## **Ocado Technology**
+
+Ocado Group est une entreprise britannique de grande distribution spécialisé l’e- commerce notamment dans l’alimentaire
+[Lieu du stage :]{.underline} 200 rue de la recherche -- 59650 Villeneuve d'Ascq
+
+[Lieu du stage :]{.underline} HATFIELD/ UK
+
+## **Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Chargée des données cobotiques
+
+[Missions(s) :]{.underline} la mise en place de Grafana Cloud pour surveiller et optimiser notre plateforme de simulation Gandalf.
+
+[Techniques statistiques :]{.underline} 
+
+[Logiciels :]{.underline} Python/SQS/Docker/AWS

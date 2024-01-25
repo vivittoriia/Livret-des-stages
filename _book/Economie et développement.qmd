@@ -1,0 +1,47 @@
+---
+title: "Economie et développement"
+---
+
+## **OCDE**
+
+L'Organisation de coopération et de développement économiques (OCDE) est une organisation internationale qui œuvre pour la mise en place de politiques meilleures pour une vie meilleure fondée en 1961 à Paris. Elle est spécialisée dans le secteur d'activité de l'économie et le développement. Son effectif est compris entre 250 à 499 salariés et compte 35 pays.
+
+[Lieu du stage :]{.underline} 2 rue André Pascal, 7577 5Paris Cedex 16
+
+**Promotion 2017 :**
+
+[Intitulé du stage :]{.underline}
+
+[Missions(s) :]{.underline} Harmoniser les données collectées des différents services économiques et le système d'information utilisé pour compiler et publier les résultats statistiques
+
+[Techniques statistiques :]{.underline} calcul d'indicateurs, statistique descriptive
+
+[Logiciels :]{.underline} SAS, R, SQL-Server, Excel
+
+## **Centre d'études de politiques pour le développement (CEPOD)**
+
+Le Centre d'Etudes de Politiques pour le Développement (CEPOD) est un projet de renforcement des capacités placé sous la tutelle du ministère de l'Economie et des Finances du Sénégal. Il bénéficie de l'appui financier de la Fondation pour le Renforcement des Capacités en Afrique (ACBF) qui est située à HARARE, au Zimbabwe. Le CEPOD a été mis en place officiellement le 09 octobre 2003 par Monsieur Abdoulaye DIOP, Ministre de l'Economie et des Finances du Sénégal, en présence de Monsieur Soumana SAKHO, Secrétaire exécutif de l'ACBF et de son Directeur Monsieur Aliou FAYE.
+
+[Lieu du stage :]{.underline} Dakar
+
+**Promotion 2018 :**
+
+[Intitulé du stage :]{.underline} Etude des facteurs déterminants des investissements direts étrangers dans les pays de l'Union économique monétaire ouest africain (UEMOA)
+
+[Missions(s) :]{.underline}
+
+-   Cadre théorique et Conceptuel de l'étude des IDE
+
+-   Analyse sectorielle et origine des flux d'IDE
+
+-   Approche théorique et empirique(Revue de la littérature sur les déterminants des IDE)
+
+-   Analyse de la relation économétrique entre l'IDE et les différentes variables qui le déterminent le modèle
+
+-   Données et résultats de régression
+
+-   Conclusions et recommandations de politique économique
+
+[Techniques statistiques :]{.underline} Régression linéaire
+
+[Logiciels :]{.underline} R

@@ -205,3 +205,17 @@ La multiplicité des phénomènes urbains pose de nouveaux défis qui ne peuvent
 [Techniques statistiques :]{.underline} Data visualisation, Régression linaire
 
 [Logiciels :]{.underline} R, Excel
+
+## **URCA (Université de Reims Champagne-Ardenne)**
+
+[Lieu du stage :]{.underline} Reims
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Justices et injustices environnementales en France- Une enquête auprès de la population française
+
+[Missions(s) :]{.underline} Ce stage consiste à mettre en œuvre une enquête auprès de la population française et en analyser les résultats. Dans un premier temps, le ou la stagiaire sera invité(e) à s'approprier la littérature pertinente et à porter un regard critique sur un projet de questionnaire et le plan d'enquête associé. Après avoir conduit les améliorations convenues, il ou elle conduira un premier test auprès d'un prestataire identifié qui pourra donner lieu à des améliorations avant de conduire l'enquête à proprement parler. La deuxième partie du stage consistera à analyser les données collectées. Ce travail pourra donner lieu à la rédaction d'un document de travail, qui pourra faire l'objet d'une publication. Au-delà de présentations attendues en interne auprès de l'équipe du projet LOCUS, le travail pourra aussi, selon son avancement et les opportunités, faire l'objet d'une présentation à l'occasion d'un événement scientifique.
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} R

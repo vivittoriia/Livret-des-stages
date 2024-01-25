@@ -18,6 +18,23 @@ Créée en 2018, Algoan est une plate-forme SaaS qui propose une chaîne complè
 
 [Logiciels :]{.underline} Python
 
+## **Avenade**
+
+Avanade est une entreprise mondiale de services technologiques et de conseil, spécialisée dans les solutions basées sur les technologies Microsoft.
+
+[Lieu du stage :]{.underline} ISSY-LES-MOULINEAUX
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Mise en place d’une architecture de données Lakehouse dans le cloud
+
+[Missions(s) :]{.underline} 
+
+[Techniques statistiques :]{.underline} Analyse des donées/ API
+
+[Logiciels :]{.underline} Azure/ Power BI/ Databricks/ SQL
+
+
 ## **BGFi Consulting**
 
 BGFI Consulting est une société de technologies et service d'information qui a vu le jour en 2002. Elle est composée d'une cinquantaine de consultants spécialisées dans le domaine du Big Data et de l'Analyse. Elle compte plus que 200 clients pour lesquels, elle a pu élaborer plus de 400 projets. Au fil du temps, elle a une filiale au Canada basé à Vancouver (BGFI NORTH AMERICA) et une autre en Tunisie (BGFI Engineering).
@@ -166,7 +183,7 @@ Capgemini est le leader du marché de l'industrie du conseil et des services inf
 
 [Missions(s) :]{.underline}
 
--   Réécriture des codes pour l'Optimisation de leur temps d'éxécution en vue de faire des prévisions des sorties d'entrepôt... \[travail en projet via l'utilisation de données extraites d'un Data lake (Le Data Lake est un référentiel de données permettant de stocker une très large quantité de données brutes dans le format natif pour une durée indéterminée. Il regroupe les données structurées en provenance de bases de données relationnelles en couloir ou en colonne, les données semi-structurées telles que les CSV, les logs, les XML, les JSON, et les données non structurées telles que les emails, les documents et les PDF....Toutes les données d'une entreprise y sont stockées).
+-   Réécriture des codes pour l'Optimisation de leur temps d'éxécution en vue de faire des prévisions des sorties d'entrepôt... travail en projet via l'utilisation de données extraites d'un Data lake (Le Data Lake est un référentiel de données permettant de stocker une très large quantité de données brutes dans le format natif pour une durée indéterminée. Il regroupe les données structurées en provenance de bases de données relationnelles en couloir ou en colonne, les données semi-structurées telles que les CSV, les logs, les XML, les JSON, et les données non structurées telles que les emails, les documents et les PDF....Toutes les données d'une entreprise y sont stockées).
 
 -   Mise en place de modèle et prévision en utilisant les techniques de machine learning.
 
@@ -586,7 +603,18 @@ Janasense est un service connecté de prévention des risques de fragilité de l
 
 ## **Kheopsys**
 
+Kheopsys est un cabinet de conseil et d’expertise spécialisé dans le domaine de la Data, et ce depuis 2019. Créé par Monsieur Abdoul Raoufou Gambo, ancien étudiant du master SEP à l’université de Reims. Elle est établie dans de superbes locaux au sein de l’espace coworking « Space ».
+
 [Lieu du stage :]{.underline} Paris
+**Promotion 2023 :** 
+
+[Intitulé du stage :]{.underline} Modélisation de la contribution des canaux marketing dans un processus d’achat
+
+[Missions(s) :]{.underline} concevoir un modèle inspiré des modèles MMM (Media Mix Modeling) qu’on a nommé CMM (Channel Mix Modeling)
+
+[Techniques statistiques :]{.underline} Machine learning MLOPS
+
+[Logiciels :]{.underline} Python
 
 **Promotion 2022 :**
 

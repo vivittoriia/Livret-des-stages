@@ -18,6 +18,22 @@ Allianz IARD est une entreprise régie par le code des assurances créée en 191
 
 [Logiciels :]{.underline} Pyspark, python, Jira, Git, Pycharm
 
+## **AMUNDI**
+
+Amundi est née en 2010 de la fusion entre le Crédit Agricole et la Société Générale, deux géants du secteur financier français. Le désir était de combiner les forces de ces deux entités pour créer une plateforme d'investissement de stature mondiale. L'ambition de se positionner comme un leader mondial de la gestion d'actifs a rapidement été réalisée, témoignant de la stratégie avisée d'Amundi dès ses débuts.
+
+[Lieu de stage :]{.underline} PARIS 15EME
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Conduite d'une experience d'analyse de données
+
+[Missions(s) :]{.underline} - Formation des Équipes : Introduire les équipes au projet Market Flows - Documentation : Rédiger des guides utilisateur pour faciliter l'adoption du nouvel outil BI choisi. - Instructions/Formation
+
+[Techniques statistiques :]{.underline} Analyse de données
+
+[Logiciels :]{.underline} VBA, Python, PowerBI
+
 ## **AVIVA**
 
 Le groupe Aviva est un assureur généraliste qui propose tous types de produits d'assurances. C'est un des premiers assureurs Européens avec Axa, Allianz et Generali. De façon générale, ses missions se déclinent sur 3 principales activités qui sont : l'Assurance, la Protection et l'Epargne. Elles sont elles-mêmes divisées en sous-catégories : pour l'Assurance, on retrouve 4 catégories telles que l'Assurance Automobile, l'Assurance Habitation, l'Assurance Emprunteur et les Assurances Professionnelles. Pour la Protection, on retrouve 3 catégories telles que la Protection de la famille, la Prévoyance et la Santé (les complémentaires Santé). Pour l'Epargne, on retrouve également 3 catégories telles que l'Assurance vie, la Retraite et la Gestion financière. En clair, il faut noter que la partie Assurance consiste à assurer par le biais d'un contrat un ou plusieurs bien(s). Quant à la partie Protection, elle consiste à couvrir le salaire d'une personne indépendante lorsqu'elle a un accident de travail. L'Epargne, permet de réaliser des placements financiers.
@@ -101,6 +117,20 @@ Generali est une compagnie d'assurance italienne fondée en 1831. Elle fait part
 [Techniques statistiques :]{.underline} Analyse des données
 
 [Logiciels :]{.underline} DataIku/ Plateforme Big Data Hadoop-Spark
+
+## **CAISSE DES DEPOTS ET CONSIGNATIONS**
+
+La caisse des dépôts est un établissement financier public français qui joue un rôle essentiel dans le paysage financier du pays. Fondée en 1816 pour faire face aux perturbations économiques causées par les guerres napoléoniennes, la CDC s'est progressivement développée pour remplir des missions d'intérêt général variées.
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Modélisation de la perte en cas de défaut sur les prêts accordés au portefeuille des professions juridiques de la Caisse des Dépôts
+
+[Missions(s) :]{.underline}
+
+[Techniques statistiques :]{.underline}
+
+[Logiciels :]{.underline} SAS / Python / SQL
 
 ## **GROUPAMA**
 
@@ -274,7 +304,15 @@ Mission(s): Réalisation des backtesting des modèles internes (PD, LGD) permett
 
 En France, le groupe Crédit Agricole est le premier acteur financier dans l'économie française. Il est considéré comme le Leader dans le domaine de la banque et l'assurance et il est la 1 ère banque de proximité avec plus de 20 millions de clients particuliers.Le Crédit Agricole se compose de 39 caisses régionales, qui se définissent comme étant « des banques coopératives qui assurent les fonctions commerciales, bancaires, financières et logistiques du Crédit Agricole » Chaque caisse régionale est indépendante et toutes partagent les valeurs mutualistes du groupe.
 
-[Lieu de stage :]{.underline} 25 rue Libergier 51088 Reims
+[Lieu de stage :]{.underline} 25 rue Libergier 51088 Reims **Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Score d'appétence
+
+[Missions(s) :]{.underline} Les enquêtes de satisfaction de la Caisse régionale
+
+[Techniques statistiques :]{.underline} Machine learning
+
+[Logiciels :]{.underline} SAS/ Python/ PowerBI/ ZEUS
 
 **Promotion 2022 :**
 
@@ -339,6 +377,36 @@ En France, le groupe Crédit Agricole est le premier acteur financier dans l'éc
 [Techniques statistiques :]{.underline} Clustering
 
 [Logiciels :]{.underline} SAS, R, Python
+
+## **Covea**
+
+Fondée en 2003, Covéa fut la première Société de Groupe d'Assurance Mutuelle (SGAM) créée en France. Elle résulte de la fusion entre MAAF Assurances et MMA qui furent rejointes par GMF en 2005. COVEA célèbre son vingtième anniversaire en 2023. Avec 11 ,5 en 2022 millions de clients, Covéa se positionne en tant que leader en France, mais également en Europe, de l'assurance de biens et responsabilité pour les particuliers.
+
+[Lieu de stage :]{.underline} LEVALLOIS-PERRET
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Data Science
+
+[Missions(s) :]{.underline} Intégrer l'équipe pour contribuer à la mise en place des futures formations liées à la plateforme et participer à la production des tutoriels destinés aux data scientist.
+
+[Techniques statistiques :]{.underline} Machine learning, Data Viz
+
+[Logiciels :]{.underline} SAS/ Azure/ Cloudera/ Python
+
+## **LA MEDICALE**
+
+La Médicale a été créée en 1948 en France et rachetée par le Groupe Crédit Lyonnais (LCL) en 1971. En 2004, l'entreprise devient filiale de PREDICA et en 2014, 100% filiale de Crédit Agricole assurance. Enfin, en 2022, l'entreprise a intégré le groupe Generali.
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Calcul d'un score d'appétence à la Complémentaire Santé
+
+[Missions(s) :]{.underline} Mettre à jour l'intranet IRIS, publication de notes et pushs mails,Gérer le site Internet et l'Espace Client et animer le groupe de travail Digital.
+
+[Techniques statistiques :]{.underline} Analyse des données
+
+[Logiciels :]{.underline} SAS/ R/ Excel
 
 ## **LE CREDIT LYONNAIS (LCL)**
 

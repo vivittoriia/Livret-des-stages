@@ -102,6 +102,41 @@ La chambre de commerce et d'industrie d'ardennes est un organisme chargé de rep
 
 [Logiciels :]{.underline} Excel, R
 
+## **CCI MEUSE/HAUTE-MARNE**
+
+Les Chambres de Commerces et d’Industrie sont des établissements publics à caractère administratif placés sous la tutelle déconcentrée de l’État, c’est-à-dire du Préfet.
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Réalisation d’une étude territoriale sur les communes Petites Villes de Demain de Meuse
+
+[Missions(s) :]{.underline} Recensement des commerces
+Intégration dans un SIG
+Coordination de la production
+Recherche de données statistiques
+Réalisation d’un support de présentation                                    Mise en place de tableaux de bord Power BI
+
+[Techniques statistiques :]{.underline} SIG
+
+[Logiciels :]{.underline} ArcGis/ SQL
+
+## **DANONE**
+
+Fondée en 1919 à Barcelone, en Espagne, par Isaac Carasso, l'entreprise a élargi son portefeuille de marques et d'activités au fil des décennies pour devenir l'une des sociétés les plus reconnues et influentes dans le secteur de l'alimentation et de la santé.
+
+[Lieu du stage :]{.underline} PARIS 09EME 
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Contrôle de la qualité des données
+
+[Mission(s) :]{.underline} L'automatisation des requêtes de création de vues KPI.
+
+[Techniques statistiques :]{.underline} KPI
+
+[Logiciels :]{.underline} SQL/Python
+
+
 ## **PUM Plastiques**
 
 PUM Plastiques est le spécialiste français du négoce de produits et solutions plastiques à destination des Entreprises du Bâtiment et des Travaux Publics.
@@ -177,3 +212,20 @@ Zenpark est une société anonyme évoluant dans le secteur d'activité du comme
 [Techniques statistiques :]{.underline} Data visualisation, modelisation mining
 
 [Logiciels :]{.underline} Qlik, SQL
+
+## **Vinci Facilités Champagne Ardenne**
+
+VINCI est le produit de la fusion de la Société Générale d’Entreprises (SGE), fondée en 1899, et Grands Travaux de Marseille (GTM), fondée en 1891.
+
+[Lieu de stage :]{.underline} Reims
+
+**Promotion 2023 :**
+
+[Intitulé du stage :]{.underline} Amélioration de la qualité de la base de données d’une entreprise dans le domaine de la maintenance
+
+[Missions(s) :]{.underline} Rattraper les écarts des données sur Looma et aussi le maintien à jour de la base de données avec une approche qualitative mais aussi de mettre en place les bonnes pratiques visant à optimiser l’utilisation de l’outil
+
+[Techniques statistiques :]{.underline} BI
+
+[Logiciels :]{.underline} LOOMA
+
