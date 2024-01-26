@@ -4,22 +4,22 @@ project:
 book:
   chapters:
     - index.qmd
-    - Présentation du master SEP.qmd
+    - Presentation du master SEP.qmd
     - Administration publique.qmd
-    - Aéronotique, Espace, défense et sécurité.qmd
+    - Aeronotique, Espace, defense et securite.qmd
     - Banque et Assurance.qmd
     - Commerce et Industrie.qmd
     - Conseil.qmd
-    - Economie et développement.qmd
+    - Economie et developpement.qmd
     - Edition de logiciels.qmd
     - Energie.qmd
     - Grande distribution.qmd
-    - Hôtellerie.qmd
-    - Informatique et Télécommunication.qmd
+    - Hotellerie.qmd
+    - Informatique et Telecommunication.qmd
     - Luxe.qmd
-    - Média.qmd
+    - Media.qmd
     - Recherche.qmd
-    - Santé.qmd
+    - Sante.qmd
     - Voyage et tourisme.qmd
     - Autres.qmd
 
