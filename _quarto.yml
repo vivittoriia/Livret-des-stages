@@ -22,9 +22,10 @@ book:
     - Sante.qmd
     - Voyage et tourisme.qmd
     - Autres.qmd
+    - Stat.qmd
 
 
-    
+
 
 bibliography: references.bib
 
